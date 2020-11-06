@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <electionResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <electionInformation>
-    <resultsTimestamp>2020-11-06T09:04:17.127</resultsTimestamp>
+    <resultsTimestamp>2020-11-06T09:09:06.34</resultsTimestamp>
     <electionName>2020 General Election</electionName>
     <electionDate>2020-11-03</electionDate>
-    <fileId>8372</fileId>
+    <fileId>8373</fileId>
   </electionInformation>
   <voterTurnout>
     <jurisdictions>
-      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3153377" voterTurnout="73.66" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
+      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3154794" voterTurnout="73.69" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
       <jurisdiction key="1" name="Apache" totalVoters="51906" ballotsCast="24776" voterTurnout="47.73" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       <jurisdiction key="2" name="Cochise" totalVoters="82022" ballotsCast="52484" voterTurnout="63.99" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
       <jurisdiction key="3" name="Coconino" totalVoters="90669" ballotsCast="72163" voterTurnout="79.59" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -21,7 +21,7 @@
       <jurisdiction key="10" name="Navajo" totalVoters="70650" ballotsCast="49924" voterTurnout="70.66" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
       <jurisdiction key="11" name="Pima" totalVoters="638355" ballotsCast="497631" voterTurnout="77.96" precinctsParticipating="249" precinctsReported="249" precinctsReportingPercent="100.00" />
       <jurisdiction key="12" name="Pinal" totalVoters="248874" ballotsCast="150424" voterTurnout="60.44" precinctsParticipating="102" precinctsReported="102" precinctsReportingPercent="100.00" />
-      <jurisdiction key="13" name="Santa Cruz" totalVoters="29963" ballotsCast="18357" voterTurnout="61.27" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
+      <jurisdiction key="13" name="Santa Cruz" totalVoters="29963" ballotsCast="19774" voterTurnout="65.99" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       <jurisdiction key="14" name="Yavapai" totalVoters="165361" ballotsCast="140116" voterTurnout="84.73" precinctsParticipating="45" precinctsReported="45" precinctsReportingPercent="100.00" />
       <jurisdiction key="15" name="Yuma" totalVoters="103273" ballotsCast="62441" voterTurnout="60.46" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
     </jurisdictions>
@@ -47,13 +47,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1560347" isWriteIn="false">
+        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1561147" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1560347">
+            <jurisdiction key="0" name="State" votes="1561147">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="127815" />
-                <voteType voteTypeName="Early Ballots" votes="1432495" />
-                <voteType voteTypeName="Provisional Ballots" votes="37" />
+                <voteType voteTypeName="Polling Place" votes="117699" />
+                <voteType voteTypeName="Early Ballots" votes="1443337" />
+                <voteType voteTypeName="Provisional Ballots" votes="111" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="16574">
@@ -140,11 +140,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="12321">
+            <jurisdiction key="13" name="Santa Cruz" votes="13121">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12321" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2205" />
+                <voteType voteTypeName="Early Ballots" votes="10842" />
+                <voteType voteTypeName="Provisional Ballots" votes="74" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="48488">
@@ -511,13 +511,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="44691" isWriteIn="false">
+        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="44710" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="44691">
+            <jurisdiction key="0" name="State" votes="44710">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="7180" />
-                <voteType voteTypeName="Early Ballots" votes="37504" />
-                <voteType voteTypeName="Provisional Ballots" votes="7" />
+                <voteType voteTypeName="Polling Place" votes="7019" />
+                <voteType voteTypeName="Early Ballots" votes="37683" />
+                <voteType voteTypeName="Provisional Ballots" votes="8" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="268">
@@ -604,11 +604,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="204">
+            <jurisdiction key="13" name="Santa Cruz" votes="223">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="204" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="43" />
+                <voteType voteTypeName="Early Ballots" votes="179" />
+                <voteType voteTypeName="Provisional Ballots" votes="1" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="1936">
@@ -859,13 +859,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1516778" isWriteIn="false">
+        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1517368" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1516778">
+            <jurisdiction key="0" name="State" votes="1517368">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="244071" />
-                <voteType voteTypeName="Early Ballots" votes="1272540" />
-                <voteType voteTypeName="Provisional Ballots" votes="167" />
+                <voteType voteTypeName="Polling Place" votes="240361" />
+                <voteType voteTypeName="Early Ballots" votes="1276804" />
+                <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="7491">
@@ -952,11 +952,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="5589">
+            <jurisdiction key="13" name="Santa Cruz" votes="6179">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="5589" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1879" />
+                <voteType voteTypeName="Early Ballots" votes="4264" />
+                <voteType voteTypeName="Provisional Ballots" votes="36" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="88037">
@@ -2041,13 +2041,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1598897" isWriteIn="false">
+        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1599732" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1598897">
+            <jurisdiction key="0" name="State" votes="1599732">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="135994" />
-                <voteType voteTypeName="Early Ballots" votes="1462852" />
-                <voteType voteTypeName="Provisional Ballots" votes="51" />
+                <voteType voteTypeName="Polling Place" votes="125541" />
+                <voteType voteTypeName="Early Ballots" votes="1474063" />
+                <voteType voteTypeName="Provisional Ballots" votes="128" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="17070">
@@ -2134,11 +2134,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="12830">
+            <jurisdiction key="13" name="Santa Cruz" votes="13665">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12830" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2377" />
+                <voteType voteTypeName="Early Ballots" votes="11211" />
+                <voteType voteTypeName="Provisional Ballots" votes="77" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="50608">
@@ -2157,13 +2157,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1496659" isWriteIn="false">
+        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1497199" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1496659">
+            <jurisdiction key="0" name="State" votes="1497199">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="237039" />
-                <voteType voteTypeName="Early Ballots" votes="1259462" />
-                <voteType voteTypeName="Provisional Ballots" votes="158" />
+                <voteType voteTypeName="Polling Place" votes="233605" />
+                <voteType voteTypeName="Early Ballots" votes="1263406" />
+                <voteType voteTypeName="Provisional Ballots" votes="188" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="7235">
@@ -2250,11 +2250,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="5136">
+            <jurisdiction key="13" name="Santa Cruz" votes="5676">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="5136" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1702" />
+                <voteType voteTypeName="Early Ballots" votes="3944" />
+                <voteType voteTypeName="Provisional Ballots" votes="30" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="86774">
@@ -3516,13 +3516,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="29" precinctsReported="29" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9856" choiceName="Grijalva, Raúl" partyKey="3" party="DEM" totalVotes="158168" isWriteIn="false">
+        <choice key="9856" choiceName="Grijalva, Raúl" partyKey="3" party="DEM" totalVotes="158993" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="158168">
+            <jurisdiction key="0" name="State" votes="158993">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="26951" />
-                <voteType voteTypeName="Early Ballots" votes="131217" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="16769" />
+                <voteType voteTypeName="Early Ballots" votes="142145" />
+                <voteType voteTypeName="Provisional Ballots" votes="79" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="8" name="Maricopa" votes="50688">
@@ -3546,11 +3546,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="12642">
+            <jurisdiction key="13" name="Santa Cruz" votes="13467">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12642" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2460" />
+                <voteType voteTypeName="Early Ballots" votes="10928" />
+                <voteType voteTypeName="Provisional Ballots" votes="79" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="15" name="Yuma" votes="20113">
@@ -3562,13 +3562,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9886" choiceName="Wood, Daniel" partyKey="9" party="REP" totalVotes="86228" isWriteIn="false">
+        <choice key="9886" choiceName="Wood, Daniel" partyKey="9" party="REP" totalVotes="86767" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="86228">
+            <jurisdiction key="0" name="State" votes="86767">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="18886" />
-                <voteType voteTypeName="Early Ballots" votes="67342" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="15284" />
+                <voteType voteTypeName="Early Ballots" votes="71458" />
+                <voteType voteTypeName="Provisional Ballots" votes="25" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="8" name="Maricopa" votes="36140">
@@ -3592,11 +3592,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="5183">
+            <jurisdiction key="13" name="Santa Cruz" votes="5722">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="5183" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1581" />
+                <voteType voteTypeName="Early Ballots" votes="4116" />
+                <voteType voteTypeName="Provisional Ballots" votes="25" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="15" name="Yuma" votes="12894">
@@ -4402,13 +4402,13 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10225" choiceName="Gabaldón, Rosanna" partyKey="3" party="DEM" totalVotes="49415" isWriteIn="false">
+        <choice key="10225" choiceName="Gabaldón, Rosanna" partyKey="3" party="DEM" totalVotes="50248" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="49415">
+            <jurisdiction key="0" name="State" votes="50248">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="14602" />
-                <voteType voteTypeName="Early Ballots" votes="34813" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="4391" />
+                <voteType voteTypeName="Early Ballots" votes="45786" />
+                <voteType voteTypeName="Provisional Ballots" votes="71" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="11" name="Pima" votes="36881">
@@ -4418,22 +4418,22 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="12534">
+            <jurisdiction key="13" name="Santa Cruz" votes="13367">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12534" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2323" />
+                <voteType voteTypeName="Early Ballots" votes="10973" />
+                <voteType voteTypeName="Provisional Ballots" votes="71" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9679" choiceName="Workman, Mark" partyKey="9" party="REP" totalVotes="31326" isWriteIn="false">
+        <choice key="9679" choiceName="Workman, Mark" partyKey="9" party="REP" totalVotes="31838" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="31326">
+            <jurisdiction key="0" name="State" votes="31838">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="8837" />
-                <voteType voteTypeName="Early Ballots" votes="22489" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="5391" />
+                <voteType voteTypeName="Early Ballots" votes="26418" />
+                <voteType voteTypeName="Provisional Ballots" votes="29" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="11" name="Pima" votes="26221">
@@ -4443,11 +4443,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="5105">
+            <jurisdiction key="13" name="Santa Cruz" votes="5617">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="5105" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1659" />
+                <voteType voteTypeName="Early Ballots" votes="3929" />
+                <voteType voteTypeName="Provisional Ballots" votes="29" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
@@ -6053,13 +6053,13 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10249" choiceName="Dalessandro, Andrea" partyKey="3" party="DEM" totalVotes="42179" isWriteIn="false">
+        <choice key="10249" choiceName="Dalessandro, Andrea" partyKey="3" party="DEM" totalVotes="42770" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="42179">
+            <jurisdiction key="0" name="State" votes="42770">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="11373" />
-                <voteType voteTypeName="Early Ballots" votes="30806" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="3212" />
+                <voteType voteTypeName="Early Ballots" votes="39516" />
+                <voteType voteTypeName="Provisional Ballots" votes="42" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="11" name="Pima" votes="32409">
@@ -6069,22 +6069,22 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="9770">
+            <jurisdiction key="13" name="Santa Cruz" votes="10361">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="9770" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1609" />
+                <voteType voteTypeName="Early Ballots" votes="8710" />
+                <voteType voteTypeName="Provisional Ballots" votes="42" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9760" choiceName="Hernandez, Daniel, Jr." partyKey="3" party="DEM" totalVotes="44007" isWriteIn="false">
+        <choice key="9760" choiceName="Hernandez, Daniel, Jr." partyKey="3" party="DEM" totalVotes="44690" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="44007">
+            <jurisdiction key="0" name="State" votes="44690">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12346" />
-                <voteType voteTypeName="Early Ballots" votes="31661" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="3666" />
+                <voteType voteTypeName="Early Ballots" votes="40964" />
+                <voteType voteTypeName="Provisional Ballots" votes="60" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="11" name="Pima" votes="33432">
@@ -6094,22 +6094,22 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="10575">
+            <jurisdiction key="13" name="Santa Cruz" votes="11258">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="10575" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1895" />
+                <voteType voteTypeName="Early Ballots" votes="9303" />
+                <voteType voteTypeName="Provisional Ballots" votes="60" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9688" choiceName="McEwen, Deborah" partyKey="9" party="REP" totalVotes="31840" isWriteIn="false">
+        <choice key="9688" choiceName="McEwen, Deborah" partyKey="9" party="REP" totalVotes="32352" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="31840">
+            <jurisdiction key="0" name="State" votes="32352">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="8692" />
-                <voteType voteTypeName="Early Ballots" votes="23148" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="5273" />
+                <voteType voteTypeName="Early Ballots" votes="27053" />
+                <voteType voteTypeName="Provisional Ballots" votes="26" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="11" name="Pima" votes="26850">
@@ -6119,11 +6119,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="4990">
+            <jurisdiction key="13" name="Santa Cruz" votes="5502">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="4990" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1571" />
+                <voteType voteTypeName="Early Ballots" votes="3905" />
+                <voteType voteTypeName="Provisional Ballots" votes="26" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
@@ -8968,13 +8968,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1333277" isWriteIn="false">
+        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1333777" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1333277">
+            <jurisdiction key="0" name="State" votes="1333777">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="179920" />
-                <voteType voteTypeName="Early Ballots" votes="1153249" />
-                <voteType voteTypeName="Provisional Ballots" votes="108" />
+                <voteType voteTypeName="Polling Place" votes="176495" />
+                <voteType voteTypeName="Early Ballots" votes="1157153" />
+                <voteType voteTypeName="Provisional Ballots" votes="129" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5054">
@@ -9061,11 +9061,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="4799">
+            <jurisdiction key="13" name="Santa Cruz" votes="5299">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="4799" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1374" />
+                <voteType voteTypeName="Early Ballots" votes="3904" />
+                <voteType voteTypeName="Provisional Ballots" votes="21" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="74696">
@@ -9084,13 +9084,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1220680" isWriteIn="false">
+        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1221190" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1220680">
+            <jurisdiction key="0" name="State" votes="1221190">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="80429" />
-                <voteType voteTypeName="Early Ballots" votes="1140227" />
-                <voteType voteTypeName="Provisional Ballots" votes="24" />
+                <voteType voteTypeName="Polling Place" votes="73142" />
+                <voteType voteTypeName="Early Ballots" votes="1147984" />
+                <voteType voteTypeName="Provisional Ballots" votes="64" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10999">
@@ -9177,11 +9177,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="8568">
+            <jurisdiction key="13" name="Santa Cruz" votes="9078">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="8568" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1281" />
+                <voteType voteTypeName="Early Ballots" votes="7757" />
+                <voteType voteTypeName="Provisional Ballots" votes="40" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="42095">
@@ -9200,13 +9200,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1319257" isWriteIn="false">
+        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1319706" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1319257">
+            <jurisdiction key="0" name="State" votes="1319706">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="191896" />
-                <voteType voteTypeName="Early Ballots" votes="1127236" />
-                <voteType voteTypeName="Provisional Ballots" votes="125" />
+                <voteType voteTypeName="Polling Place" votes="188945" />
+                <voteType voteTypeName="Early Ballots" votes="1130613" />
+                <voteType voteTypeName="Provisional Ballots" votes="148" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5890">
@@ -9293,11 +9293,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="4247">
+            <jurisdiction key="13" name="Santa Cruz" votes="4696">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="4247" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1296" />
+                <voteType voteTypeName="Early Ballots" votes="3377" />
+                <voteType voteTypeName="Provisional Ballots" votes="23" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="77177">
@@ -9316,13 +9316,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1269920" isWriteIn="false">
+        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1270330" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1269920">
+            <jurisdiction key="0" name="State" votes="1270330">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="175652" />
-                <voteType voteTypeName="Early Ballots" votes="1094157" />
-                <voteType voteTypeName="Provisional Ballots" votes="111" />
+                <voteType voteTypeName="Polling Place" votes="172939" />
+                <voteType voteTypeName="Early Ballots" votes="1097266" />
+                <voteType voteTypeName="Provisional Ballots" votes="125" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5708">
@@ -9409,11 +9409,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="3815">
+            <jurisdiction key="13" name="Santa Cruz" votes="4225">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="3815" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1102" />
+                <voteType voteTypeName="Early Ballots" votes="3109" />
+                <voteType voteTypeName="Provisional Ballots" votes="14" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="72155">
@@ -9432,13 +9432,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1190377" isWriteIn="false">
+        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1190863" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1190377">
+            <jurisdiction key="0" name="State" votes="1190863">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="80017" />
-                <voteType voteTypeName="Early Ballots" votes="1110334" />
-                <voteType voteTypeName="Provisional Ballots" votes="26" />
+                <voteType voteTypeName="Polling Place" votes="72944" />
+                <voteType voteTypeName="Early Ballots" votes="1117864" />
+                <voteType voteTypeName="Provisional Ballots" votes="55" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10796">
@@ -9525,11 +9525,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="8260">
+            <jurisdiction key="13" name="Santa Cruz" votes="8746">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="8260" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1187" />
+                <voteType voteTypeName="Early Ballots" votes="7530" />
+                <voteType voteTypeName="Provisional Ballots" votes="29" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="39549">
@@ -9548,13 +9548,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1357668" isWriteIn="false">
+        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1358401" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1357668">
+            <jurisdiction key="0" name="State" votes="1358401">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="100829" />
-                <voteType voteTypeName="Early Ballots" votes="1256806" />
-                <voteType voteTypeName="Provisional Ballots" votes="33" />
+                <voteType voteTypeName="Polling Place" votes="91425" />
+                <voteType voteTypeName="Early Ballots" votes="1266886" />
+                <voteType voteTypeName="Provisional Ballots" votes="90" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="11293">
@@ -9641,11 +9641,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="11393">
+            <jurisdiction key="13" name="Santa Cruz" votes="12126">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="11393" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1989" />
+                <voteType voteTypeName="Early Ballots" votes="10080" />
+                <voteType voteTypeName="Provisional Ballots" votes="57" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="43565">
@@ -9686,13 +9686,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10376" choiceName="No" totalVotes="570394" isWriteIn="false">
+        <choice key="10376" choiceName="No" totalVotes="570724" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="570394">
+            <jurisdiction key="0" name="State" votes="570724">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="67302" />
-                <voteType voteTypeName="Early Ballots" votes="503055" />
-                <voteType voteTypeName="Provisional Ballots" votes="37" />
+                <voteType voteTypeName="Polling Place" votes="64002" />
+                <voteType voteTypeName="Early Ballots" votes="506658" />
+                <voteType voteTypeName="Provisional Ballots" votes="64" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="6023">
@@ -9779,11 +9779,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="4176">
+            <jurisdiction key="13" name="Santa Cruz" votes="4506">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="4176" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="876" />
+                <voteType voteTypeName="Early Ballots" votes="3603" />
+                <voteType voteTypeName="Provisional Ballots" votes="27" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="16843">
@@ -9802,13 +9802,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10360" choiceName="Yes" totalVotes="1728929" isWriteIn="false">
+        <choice key="10360" choiceName="Yes" totalVotes="1729775" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1728929">
+            <jurisdiction key="0" name="State" votes="1729775">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="211223" />
-                <voteType voteTypeName="Early Ballots" votes="1517565" />
-                <voteType voteTypeName="Provisional Ballots" votes="141" />
+                <voteType voteTypeName="Polling Place" votes="202394" />
+                <voteType voteTypeName="Early Ballots" votes="1527173" />
+                <voteType voteTypeName="Provisional Ballots" votes="208" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="15974">
@@ -9895,11 +9895,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="11533">
+            <jurisdiction key="13" name="Santa Cruz" votes="12379">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="11533" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2704" />
+                <voteType voteTypeName="Early Ballots" votes="9608" />
+                <voteType voteTypeName="Provisional Ballots" votes="67" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="94404">
@@ -9940,13 +9940,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10311" choiceName="No" totalVotes="735591" isWriteIn="false">
+        <choice key="10311" choiceName="No" totalVotes="735946" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="735591">
+            <jurisdiction key="0" name="State" votes="735946">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="70381" />
-                <voteType voteTypeName="Early Ballots" votes="665169" />
-                <voteType voteTypeName="Provisional Ballots" votes="41" />
+                <voteType voteTypeName="Polling Place" votes="66825" />
+                <voteType voteTypeName="Early Ballots" votes="669056" />
+                <voteType voteTypeName="Provisional Ballots" votes="65" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5942">
@@ -10033,11 +10033,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="4453">
+            <jurisdiction key="13" name="Santa Cruz" votes="4808">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="4453" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="897" />
+                <voteType voteTypeName="Early Ballots" votes="3887" />
+                <voteType voteTypeName="Provisional Ballots" votes="24" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="19550">
@@ -10056,13 +10056,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10327" choiceName="Yes" totalVotes="1555004" isWriteIn="false">
+        <choice key="10327" choiceName="Yes" totalVotes="1555802" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1555004">
+            <jurisdiction key="0" name="State" votes="1555802">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="205563" />
-                <voteType voteTypeName="Early Ballots" votes="1349305" />
-                <voteType voteTypeName="Provisional Ballots" votes="136" />
+                <voteType voteTypeName="Polling Place" votes="197168" />
+                <voteType voteTypeName="Early Ballots" votes="1358431" />
+                <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="15956">
@@ -10149,11 +10149,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="10987">
+            <jurisdiction key="13" name="Santa Cruz" votes="11785">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="10987" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2592" />
+                <voteType voteTypeName="Early Ballots" votes="9126" />
+                <voteType voteTypeName="Provisional Ballots" votes="67" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="88270">
@@ -10194,13 +10194,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10344" choiceName="No" totalVotes="633069" isWriteIn="false">
+        <choice key="10344" choiceName="No" totalVotes="633361" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="633069">
+            <jurisdiction key="0" name="State" votes="633361">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="65557" />
-                <voteType voteTypeName="Early Ballots" votes="567468" />
-                <voteType voteTypeName="Provisional Ballots" votes="44" />
+                <voteType voteTypeName="Polling Place" votes="62677" />
+                <voteType voteTypeName="Early Ballots" votes="570619" />
+                <voteType voteTypeName="Provisional Ballots" votes="65" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5741">
@@ -10287,11 +10287,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="3634">
+            <jurisdiction key="13" name="Santa Cruz" votes="3926">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="3634" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="754" />
+                <voteType voteTypeName="Early Ballots" votes="3151" />
+                <voteType voteTypeName="Provisional Ballots" votes="21" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="17777">
@@ -10310,13 +10310,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10328" choiceName="Yes" totalVotes="1669706" isWriteIn="false">
+        <choice key="10328" choiceName="Yes" totalVotes="1670582" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1669706">
+            <jurisdiction key="0" name="State" votes="1670582">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="211473" />
-                <voteType voteTypeName="Early Ballots" votes="1458100" />
-                <voteType voteTypeName="Provisional Ballots" votes="133" />
+                <voteType voteTypeName="Polling Place" votes="202319" />
+                <voteType voteTypeName="Early Ballots" votes="1468058" />
+                <voteType voteTypeName="Provisional Ballots" votes="205" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="16107">
@@ -10403,11 +10403,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="11913">
+            <jurisdiction key="13" name="Santa Cruz" votes="12789">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="11913" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2759" />
+                <voteType voteTypeName="Early Ballots" votes="9958" />
+                <voteType voteTypeName="Provisional Ballots" votes="72" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="90299">
@@ -11015,13 +11015,13 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10459" choiceName="No" totalVotes="44020" isWriteIn="false">
+        <choice key="10459" choiceName="No" totalVotes="44356" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="44020">
+            <jurisdiction key="0" name="State" votes="44356">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12956" />
-                <voteType voteTypeName="Early Ballots" votes="31023" />
-                <voteType voteTypeName="Provisional Ballots" votes="41" />
+                <voteType voteTypeName="Polling Place" votes="9740" />
+                <voteType voteTypeName="Early Ballots" votes="34547" />
+                <voteType voteTypeName="Provisional Ballots" votes="69" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="8351">
@@ -11059,22 +11059,22 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="4127">
+            <jurisdiction key="13" name="Santa Cruz" votes="4463">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="4127" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="911" />
+                <voteType voteTypeName="Early Ballots" votes="3524" />
+                <voteType voteTypeName="Provisional Ballots" votes="28" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10452" choiceName="Yes" totalVotes="172577" isWriteIn="false">
+        <choice key="10452" choiceName="Yes" totalVotes="173387" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="172577">
+            <jurisdiction key="0" name="State" votes="173387">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="48609" />
-                <voteType voteTypeName="Early Ballots" votes="123834" />
-                <voteType voteTypeName="Provisional Ballots" votes="134" />
+                <voteType voteTypeName="Polling Place" votes="39930" />
+                <voteType voteTypeName="Early Ballots" votes="133261" />
+                <voteType voteTypeName="Provisional Ballots" votes="196" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="36086">
@@ -11112,11 +11112,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="11233">
+            <jurisdiction key="13" name="Santa Cruz" votes="12043">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="11233" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2554" />
+                <voteType voteTypeName="Early Ballots" votes="9427" />
+                <voteType voteTypeName="Provisional Ballots" votes="62" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
@@ -11134,13 +11134,13 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10473" choiceName="No" totalVotes="42236" isWriteIn="false">
+        <choice key="10473" choiceName="No" totalVotes="42519" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="42236">
+            <jurisdiction key="0" name="State" votes="42519">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12603" />
-                <voteType voteTypeName="Early Ballots" votes="29589" />
-                <voteType voteTypeName="Provisional Ballots" votes="44" />
+                <voteType voteTypeName="Polling Place" votes="10400" />
+                <voteType voteTypeName="Early Ballots" votes="32050" />
+                <voteType voteTypeName="Provisional Ballots" votes="69" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="8251">
@@ -11178,22 +11178,22 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="2982">
+            <jurisdiction key="13" name="Santa Cruz" votes="3265">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="2982" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="779" />
+                <voteType voteTypeName="Early Ballots" votes="2461" />
+                <voteType voteTypeName="Provisional Ballots" votes="25" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10466" choiceName="Yes" totalVotes="173928" isWriteIn="false">
+        <choice key="10466" choiceName="Yes" totalVotes="174805" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="173928">
+            <jurisdiction key="0" name="State" votes="174805">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="48939" />
-                <voteType voteTypeName="Early Ballots" votes="124859" />
-                <voteType voteTypeName="Provisional Ballots" votes="130" />
+                <voteType voteTypeName="Polling Place" votes="39186" />
+                <voteType voteTypeName="Early Ballots" votes="135421" />
+                <voteType voteTypeName="Provisional Ballots" votes="198" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="35806">
@@ -11231,11 +11231,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="12451">
+            <jurisdiction key="13" name="Santa Cruz" votes="13328">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="12451" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2698" />
+                <voteType voteTypeName="Early Ballots" votes="10562" />
+                <voteType voteTypeName="Provisional Ballots" votes="68" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
@@ -11262,13 +11262,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9620" choiceName="No" totalVotes="1207932" isWriteIn="false">
+        <choice key="9620" choiceName="No" totalVotes="1208501" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1207932">
+            <jurisdiction key="0" name="State" votes="1208501">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="147176" />
-                <voteType voteTypeName="Early Ballots" votes="1060655" />
-                <voteType voteTypeName="Provisional Ballots" votes="101" />
+                <voteType voteTypeName="Polling Place" votes="141653" />
+                <voteType voteTypeName="Early Ballots" votes="1066702" />
+                <voteType voteTypeName="Provisional Ballots" votes="146" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="12490">
@@ -11355,11 +11355,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="7372">
+            <jurisdiction key="13" name="Santa Cruz" votes="7941">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="7372" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1849" />
+                <voteType voteTypeName="Early Ballots" votes="6047" />
+                <voteType voteTypeName="Provisional Ballots" votes="45" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="61662">
@@ -11378,13 +11378,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9632" choiceName="Yes" totalVotes="1802457" isWriteIn="false">
+        <choice key="9632" choiceName="Yes" totalVotes="1803234" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1802457">
+            <jurisdiction key="0" name="State" votes="1803234">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="210292" />
-                <voteType voteTypeName="Early Ballots" votes="1592061" />
-                <voteType voteTypeName="Provisional Ballots" votes="104" />
+                <voteType voteTypeName="Polling Place" votes="202314" />
+                <voteType voteTypeName="Early Ballots" votes="1600763" />
+                <voteType voteTypeName="Provisional Ballots" votes="157" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10473">
@@ -11471,11 +11471,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="9979">
+            <jurisdiction key="13" name="Santa Cruz" votes="10756">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="9979" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="2001" />
+                <voteType voteTypeName="Early Ballots" votes="8702" />
+                <voteType voteTypeName="Provisional Ballots" votes="53" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="68219">
@@ -11516,13 +11516,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10279" choiceName="No" totalVotes="1437291" isWriteIn="false">
+        <choice key="10279" choiceName="No" totalVotes="1437876" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1437291">
+            <jurisdiction key="0" name="State" votes="1437876">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="211052" />
-                <voteType voteTypeName="Early Ballots" votes="1226120" />
-                <voteType voteTypeName="Provisional Ballots" votes="119" />
+                <voteType voteTypeName="Polling Place" votes="206062" />
+                <voteType voteTypeName="Early Ballots" votes="1231658" />
+                <voteType voteTypeName="Provisional Ballots" votes="156" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10022">
@@ -11609,11 +11609,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="6849">
+            <jurisdiction key="13" name="Santa Cruz" votes="7434">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="6849" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1859" />
+                <voteType voteTypeName="Early Ballots" votes="5538" />
+                <voteType voteTypeName="Provisional Ballots" votes="37" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="73261">
@@ -11632,13 +11632,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10293" choiceName="Yes" totalVotes="1555901" isWriteIn="false">
+        <choice key="10293" choiceName="Yes" totalVotes="1556659" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1555901">
+            <jurisdiction key="0" name="State" votes="1556659">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="141591" />
-                <voteType voteTypeName="Early Ballots" votes="1414227" />
-                <voteType voteTypeName="Provisional Ballots" votes="83" />
+                <voteType voteTypeName="Polling Place" votes="133068" />
+                <voteType voteTypeName="Early Ballots" votes="1423450" />
+                <voteType voteTypeName="Provisional Ballots" votes="141" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="12901">
@@ -11725,11 +11725,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="13" name="Santa Cruz" votes="10518">
+            <jurisdiction key="13" name="Santa Cruz" votes="11276">
               <voteTypes>
-                <voteType voteTypeName="Polling Place" votes="10518" />
-                <voteType voteTypeName="Early Ballots" votes="0" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Polling Place" votes="1995" />
+                <voteType voteTypeName="Early Ballots" votes="9223" />
+                <voteType voteTypeName="Provisional Ballots" votes="58" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="14" name="Yavapai" votes="55676">
