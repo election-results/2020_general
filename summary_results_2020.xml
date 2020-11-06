@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <electionResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <electionInformation>
-    <resultsTimestamp>2020-11-06T12:47:51.39</resultsTimestamp>
+    <resultsTimestamp>2020-11-06T13:26:18.193</resultsTimestamp>
     <electionName>2020 General Election</electionName>
     <electionDate>2020-11-03</electionDate>
-    <fileId>8375</fileId>
+    <fileId>8376</fileId>
   </electionInformation>
   <voterTurnout>
     <jurisdictions>
-      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3159896" voterTurnout="73.81" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3166585" voterTurnout="73.97" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
       <jurisdiction key="1" name="Apache" totalVoters="51906" ballotsCast="24776" voterTurnout="47.73" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       <jurisdiction key="2" name="Cochise" totalVoters="82022" ballotsCast="52484" voterTurnout="63.99" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
       <jurisdiction key="3" name="Coconino" totalVoters="90669" ballotsCast="72163" voterTurnout="79.59" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -20,16 +20,16 @@
       <jurisdiction key="9" name="Mohave" totalVoters="135180" ballotsCast="104452" voterTurnout="77.27" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       <jurisdiction key="10" name="Navajo" totalVoters="70650" ballotsCast="51029" voterTurnout="72.23" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
       <jurisdiction key="11" name="Pima" totalVoters="638355" ballotsCast="497631" voterTurnout="77.96" precinctsParticipating="249" precinctsReported="249" precinctsReportingPercent="100.00" />
-      <jurisdiction key="12" name="Pinal" totalVoters="248874" ballotsCast="150424" voterTurnout="60.44" precinctsParticipating="102" precinctsReported="102" precinctsReportingPercent="100.00" />
+      <jurisdiction key="12" name="Pinal" totalVoters="248874" ballotsCast="157113" voterTurnout="63.13" precinctsParticipating="102" precinctsReported="102" precinctsReportingPercent="100.00" />
       <jurisdiction key="13" name="Santa Cruz" totalVoters="29963" ballotsCast="19774" voterTurnout="65.99" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       <jurisdiction key="14" name="Yavapai" totalVoters="165361" ballotsCast="140116" voterTurnout="84.73" precinctsParticipating="45" precinctsReported="45" precinctsReportingPercent="100.00" />
       <jurisdiction key="15" name="Yuma" totalVoters="103273" ballotsCast="62441" voterTurnout="60.46" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
     </jurisdictions>
   </voterTurnout>
   <contests>
-    <contest key="3509" contestLongName="President of the United States" districtKey="1" districtName="Federal Statewide" numberToElect="1" termYears="4" isQuestion="false" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="3509" contestLongName="President of the United States" districtKey="1" districtName="Federal Statewide" numberToElect="1" termYears="4" isQuestion="false" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -47,12 +47,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1562200" isWriteIn="false">
+        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1564883" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1562200">
+            <jurisdiction key="0" name="State" votes="1564883">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="117699" />
-                <voteType voteTypeName="Early Ballots" votes="1444390" />
+                <voteType voteTypeName="Early Ballots" votes="1447073" />
                 <voteType voteTypeName="Provisional Ballots" votes="111" />
               </voteTypes>
             </jurisdiction>
@@ -133,10 +133,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="62672">
+            <jurisdiction key="12" name="Pinal" votes="65355">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9804" />
-                <voteType voteTypeName="Early Ballots" votes="52868" />
+                <voteType voteTypeName="Early Ballots" votes="55551" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -511,12 +511,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="44822" isWriteIn="false">
+        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="44916" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="44822">
+            <jurisdiction key="0" name="State" votes="44916">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7019" />
-                <voteType voteTypeName="Early Ballots" votes="37795" />
+                <voteType voteTypeName="Early Ballots" votes="37889" />
                 <voteType voteTypeName="Provisional Ballots" votes="8" />
               </voteTypes>
             </jurisdiction>
@@ -597,10 +597,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="1994">
+            <jurisdiction key="12" name="Pinal" votes="2088">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="585" />
-                <voteType voteTypeName="Early Ballots" votes="1409" />
+                <voteType voteTypeName="Early Ballots" votes="1503" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -859,12 +859,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1521246" isWriteIn="false">
+        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1525114" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1521246">
+            <jurisdiction key="0" name="State" votes="1525114">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="240361" />
-                <voteType voteTypeName="Early Ballots" votes="1280682" />
+                <voteType voteTypeName="Early Ballots" votes="1284550" />
                 <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
@@ -945,10 +945,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="84729">
+            <jurisdiction key="12" name="Pinal" votes="88597">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="26172" />
-                <voteType voteTypeName="Early Ballots" votes="58557" />
+                <voteType voteTypeName="Early Ballots" votes="62425" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -977,9 +977,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="3579" contestLongName="U.S. Senator" districtKey="1" districtName="Federal Statewide" numberToElect="1" termYears="6" isQuestion="false" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="3579" contestLongName="U.S. Senator" districtKey="1" districtName="Federal Statewide" numberToElect="1" termYears="6" isQuestion="false" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -2041,12 +2041,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1600946" isWriteIn="false">
+        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1603720" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1600946">
+            <jurisdiction key="0" name="State" votes="1603720">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="125541" />
-                <voteType voteTypeName="Early Ballots" votes="1475277" />
+                <voteType voteTypeName="Early Ballots" votes="1478051" />
                 <voteType voteTypeName="Provisional Ballots" votes="128" />
               </voteTypes>
             </jurisdiction>
@@ -2127,10 +2127,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="65723">
+            <jurisdiction key="12" name="Pinal" votes="68497">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10722" />
-                <voteType voteTypeName="Early Ballots" votes="55001" />
+                <voteType voteTypeName="Early Ballots" votes="57775" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -2157,12 +2157,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1500939" isWriteIn="false">
+        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1504725" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1500939">
+            <jurisdiction key="0" name="State" votes="1504725">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="233605" />
-                <voteType voteTypeName="Early Ballots" votes="1267146" />
+                <voteType voteTypeName="Early Ballots" votes="1270932" />
                 <voteType voteTypeName="Provisional Ballots" votes="188" />
               </voteTypes>
             </jurisdiction>
@@ -2243,10 +2243,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="82349">
+            <jurisdiction key="12" name="Pinal" votes="86135">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="25359" />
-                <voteType voteTypeName="Early Ballots" votes="56990" />
+                <voteType voteTypeName="Early Ballots" votes="60776" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3203,9 +3203,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="3570" contestLongName="U.S. Representative in Congress - District No. 1" districtKey="3" districtName="Congressional District 1" numberToElect="1" termYears="2" isQuestion="false" countiesParticipating="11" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="3570" contestLongName="U.S. Representative in Congress - District No. 1" districtKey="3" districtName="Congressional District 1" numberToElect="1" termYears="2" isQuestion="false" countiesParticipating="11" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
         <jurisdiction key="4" name="Gila" precinctsParticipating="22" precinctsReported="22" precinctsReportingPercent="100.00" />
@@ -3219,12 +3219,12 @@
         <jurisdiction key="14" name="Yavapai" precinctsParticipating="7" precinctsReported="7" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9789" choiceName="O'Halleran, Tom" partyKey="3" party="DEM" totalVotes="172111" isWriteIn="false">
+        <choice key="9789" choiceName="O'Halleran, Tom" partyKey="3" party="DEM" totalVotes="173558" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="172111">
+            <jurisdiction key="0" name="State" votes="173558">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="29650" />
-                <voteType voteTypeName="Early Ballots" votes="142422" />
+                <voteType voteTypeName="Early Ballots" votes="143869" />
                 <voteType voteTypeName="Provisional Ballots" votes="39" />
               </voteTypes>
             </jurisdiction>
@@ -3291,10 +3291,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="36023">
+            <jurisdiction key="12" name="Pinal" votes="37470">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6598" />
-                <voteType voteTypeName="Early Ballots" votes="29425" />
+                <voteType voteTypeName="Early Ballots" votes="30872" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3307,12 +3307,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9669" choiceName="Shedd, Tiffany" partyKey="9" party="REP" totalVotes="159554" isWriteIn="false">
+        <choice key="9669" choiceName="Shedd, Tiffany" partyKey="9" party="REP" totalVotes="161134" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="159554">
+            <jurisdiction key="0" name="State" votes="161134">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="43895" />
-                <voteType voteTypeName="Early Ballots" votes="115492" />
+                <voteType voteTypeName="Early Ballots" votes="117072" />
                 <voteType voteTypeName="Provisional Ballots" votes="167" />
               </voteTypes>
             </jurisdiction>
@@ -3379,10 +3379,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="39201">
+            <jurisdiction key="12" name="Pinal" votes="40781">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="12660" />
-                <voteType voteTypeName="Early Ballots" votes="26541" />
+                <voteType voteTypeName="Early Ballots" votes="28121" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3682,12 +3682,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="112259" isWriteIn="false">
+        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="113485" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="112259">
+            <jurisdiction key="0" name="State" votes="113485">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9866" />
-                <voteType voteTypeName="Early Ballots" votes="102393" />
+                <voteType voteTypeName="Early Ballots" votes="103619" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3719,10 +3719,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="26058">
+            <jurisdiction key="12" name="Pinal" votes="27284">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3148" />
-                <voteType voteTypeName="Early Ballots" votes="22910" />
+                <voteType voteTypeName="Early Ballots" votes="24136" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3742,12 +3742,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="257212" isWriteIn="false">
+        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="259443" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="257212">
+            <jurisdiction key="0" name="State" votes="259443">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="53846" />
-                <voteType voteTypeName="Early Ballots" votes="203366" />
+                <voteType voteTypeName="Early Ballots" votes="205597" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3779,10 +3779,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="44812">
+            <jurisdiction key="12" name="Pinal" votes="47043">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="12972" />
-                <voteType voteTypeName="Early Ballots" votes="31840" />
+                <voteType voteTypeName="Early Ballots" votes="34071" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4653,9 +4653,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="3545" contestLongName="State Senator - District No.  6" districtKey="17" districtName="Legislative District 6" numberToElect="1" termYears="2" isQuestion="false" countiesParticipating="4" countiesReported="15" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00">
+    <contest key="3545" contestLongName="State Senator - District No.  6" districtKey="17" districtName="Legislative District 6" numberToElect="1" termYears="2" isQuestion="false" countiesParticipating="4" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="45" precinctsReported="45" precinctsReportingPercent="100.00" />
         <jurisdiction key="4" name="Gila" precinctsParticipating="18" precinctsReported="18" precinctsReportingPercent="100.00" />
         <jurisdiction key="10" name="Navajo" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00" />
@@ -4742,9 +4742,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="3546" contestLongName="State Senator - District No.  7" districtKey="18" districtName="Legislative District 7" numberToElect="1" termYears="2" isQuestion="false" countiesParticipating="7" countiesReported="15" precinctsParticipating="9" precinctsReported="9" precinctsReportingPercent="100.00">
+    <contest key="3546" contestLongName="State Senator - District No.  7" districtKey="18" districtName="Legislative District 7" numberToElect="1" termYears="2" isQuestion="false" countiesParticipating="7" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="9" precinctsReported="9" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="26" precinctsReported="26" precinctsReportingPercent="100.00" />
         <jurisdiction key="4" name="Gila" precinctsParticipating="3" precinctsReported="3" precinctsReportingPercent="100.00" />
@@ -4823,12 +4823,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="51" precinctsReported="51" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9821" choiceName="McGuire, Barbara" partyKey="3" party="DEM" totalVotes="30185" isWriteIn="false">
+        <choice key="9821" choiceName="McGuire, Barbara" partyKey="3" party="DEM" totalVotes="31490" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="30185">
+            <jurisdiction key="0" name="State" votes="31490">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5238" />
-                <voteType voteTypeName="Early Ballots" votes="24947" />
+                <voteType voteTypeName="Early Ballots" votes="26252" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4839,21 +4839,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="27094">
+            <jurisdiction key="12" name="Pinal" votes="28399">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4868" />
-                <voteType voteTypeName="Early Ballots" votes="22226" />
+                <voteType voteTypeName="Early Ballots" votes="23531" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9797" choiceName="Shope, Thomas &quot;T.J.&quot;" partyKey="9" party="REP" totalVotes="40752" isWriteIn="false">
+        <choice key="9797" choiceName="Shope, Thomas &quot;T.J.&quot;" partyKey="9" party="REP" totalVotes="42621" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="40752">
+            <jurisdiction key="0" name="State" votes="42621">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="12667" />
-                <voteType voteTypeName="Early Ballots" votes="28085" />
+                <voteType voteTypeName="Early Ballots" votes="29954" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4864,10 +4864,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="36706">
+            <jurisdiction key="12" name="Pinal" votes="38575">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="11772" />
-                <voteType voteTypeName="Early Ballots" votes="24934" />
+                <voteType voteTypeName="Early Ballots" votes="26803" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4952,12 +4952,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="27" precinctsReported="27" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9755" choiceName="Leach, Venden &quot;Vince&quot;" partyKey="9" party="REP" totalVotes="64711" isWriteIn="false">
+        <choice key="9755" choiceName="Leach, Venden &quot;Vince&quot;" partyKey="9" party="REP" totalVotes="65760" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="64711">
+            <jurisdiction key="0" name="State" votes="65760">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="14075" />
-                <voteType voteTypeName="Early Ballots" votes="50636" />
+                <voteType voteTypeName="Early Ballots" votes="51685" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4968,21 +4968,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="22740">
+            <jurisdiction key="12" name="Pinal" votes="23789">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7241" />
-                <voteType voteTypeName="Early Ballots" votes="15499" />
+                <voteType voteTypeName="Early Ballots" votes="16548" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10042" choiceName="Mendoza, JoAnna" partyKey="3" party="DEM" totalVotes="55595" isWriteIn="false">
+        <choice key="10042" choiceName="Mendoza, JoAnna" partyKey="3" party="DEM" totalVotes="56525" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="55595">
+            <jurisdiction key="0" name="State" votes="56525">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4858" />
-                <voteType voteTypeName="Early Ballots" votes="50737" />
+                <voteType voteTypeName="Early Ballots" votes="51667" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4993,10 +4993,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="19456">
+            <jurisdiction key="12" name="Pinal" votes="20386">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3239" />
-                <voteType voteTypeName="Early Ballots" votes="16217" />
+                <voteType voteTypeName="Early Ballots" votes="17147" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -5011,12 +5011,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="1" precinctsReported="1" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9984" choiceName="Petersen, Warren" partyKey="9" party="REP" totalVotes="87477" isWriteIn="false">
+        <choice key="9984" choiceName="Petersen, Warren" partyKey="9" party="REP" totalVotes="87583" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="87477">
+            <jurisdiction key="0" name="State" votes="87583">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9549" />
-                <voteType voteTypeName="Early Ballots" votes="77928" />
+                <voteType voteTypeName="Early Ballots" votes="78034" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -5027,21 +5027,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="765">
+            <jurisdiction key="12" name="Pinal" votes="871">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="73" />
-                <voteType voteTypeName="Early Ballots" votes="692" />
+                <voteType voteTypeName="Early Ballots" votes="798" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9901" choiceName="Robinson, Lynsey" partyKey="3" party="DEM" totalVotes="56692" isWriteIn="false">
+        <choice key="9901" choiceName="Robinson, Lynsey" partyKey="3" party="DEM" totalVotes="56710" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="56692">
+            <jurisdiction key="0" name="State" votes="56710">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2876" />
-                <voteType voteTypeName="Early Ballots" votes="53816" />
+                <voteType voteTypeName="Early Ballots" votes="53834" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -5052,10 +5052,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="348">
+            <jurisdiction key="12" name="Pinal" votes="366">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="11" />
-                <voteType voteTypeName="Early Ballots" votes="337" />
+                <voteType voteTypeName="Early Ballots" votes="355" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -5337,12 +5337,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9980" choiceName="Townsend, Kelly" partyKey="9" party="REP" totalVotes="84897" isWriteIn="false">
+        <choice key="9980" choiceName="Townsend, Kelly" partyKey="9" party="REP" totalVotes="85835" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="84897">
+            <jurisdiction key="0" name="State" votes="85835">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="12084" />
-                <voteType voteTypeName="Early Ballots" votes="72813" />
+                <voteType voteTypeName="Early Ballots" votes="73751" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -5353,10 +5353,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="29143">
+            <jurisdiction key="12" name="Pinal" votes="30081">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7123" />
-                <voteType voteTypeName="Early Ballots" votes="22020" />
+                <voteType voteTypeName="Early Ballots" votes="22958" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6361,9 +6361,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="3515" contestLongName="State Representative - District No.  6" districtKey="17" districtName="Legislative District 6" numberToElect="2" termYears="2" isQuestion="false" countiesParticipating="4" countiesReported="15" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00">
+    <contest key="3515" contestLongName="State Representative - District No.  6" districtKey="17" districtName="Legislative District 6" numberToElect="2" termYears="2" isQuestion="false" countiesParticipating="4" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="45" precinctsReported="45" precinctsReportingPercent="100.00" />
         <jurisdiction key="4" name="Gila" precinctsParticipating="18" precinctsReported="18" precinctsReportingPercent="100.00" />
         <jurisdiction key="10" name="Navajo" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00" />
@@ -6528,9 +6528,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="3516" contestLongName="State Representative - District No.  7" districtKey="18" districtName="Legislative District 7" numberToElect="2" termYears="2" isQuestion="false" countiesParticipating="7" countiesReported="15" precinctsParticipating="9" precinctsReported="9" precinctsReportingPercent="100.00">
+    <contest key="3516" contestLongName="State Representative - District No.  7" districtKey="18" districtName="Legislative District 7" numberToElect="2" termYears="2" isQuestion="false" countiesParticipating="7" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="9" precinctsReported="9" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="26" precinctsReported="26" precinctsReportingPercent="100.00" />
         <jurisdiction key="4" name="Gila" precinctsParticipating="3" precinctsReported="3" precinctsReportingPercent="100.00" />
@@ -6849,12 +6849,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="51" precinctsReported="51" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9860" choiceName="Cook, David" partyKey="9" party="REP" totalVotes="36359" isWriteIn="false">
+        <choice key="9860" choiceName="Cook, David" partyKey="9" party="REP" totalVotes="38065" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="36359">
+            <jurisdiction key="0" name="State" votes="38065">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10543" />
-                <voteType voteTypeName="Early Ballots" votes="25816" />
+                <voteType voteTypeName="Early Ballots" votes="27522" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6865,21 +6865,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="32833">
+            <jurisdiction key="12" name="Pinal" votes="34539">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9805" />
-                <voteType voteTypeName="Early Ballots" votes="23028" />
+                <voteType voteTypeName="Early Ballots" votes="24734" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9767" choiceName="Girard, Sharon" partyKey="3" party="DEM" totalVotes="31360" isWriteIn="false">
+        <choice key="9767" choiceName="Girard, Sharon" partyKey="3" party="DEM" totalVotes="32717" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="31360">
+            <jurisdiction key="0" name="State" votes="32717">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5397" />
-                <voteType voteTypeName="Early Ballots" votes="25963" />
+                <voteType voteTypeName="Early Ballots" votes="27320" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6890,10 +6890,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="28068">
+            <jurisdiction key="12" name="Pinal" votes="29425">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5030" />
-                <voteType voteTypeName="Early Ballots" votes="23038" />
+                <voteType voteTypeName="Early Ballots" votes="24395" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6924,12 +6924,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10066" choiceName="Pratt, Frank" partyKey="9" party="REP" totalVotes="35501" isWriteIn="false">
+        <choice key="10066" choiceName="Pratt, Frank" partyKey="9" party="REP" totalVotes="37157" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="35501">
+            <jurisdiction key="0" name="State" votes="37157">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9551" />
-                <voteType voteTypeName="Early Ballots" votes="25950" />
+                <voteType voteTypeName="Early Ballots" votes="27606" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6940,10 +6940,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="31512">
+            <jurisdiction key="12" name="Pinal" votes="33168">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="8791" />
-                <voteType voteTypeName="Early Ballots" votes="22721" />
+                <voteType voteTypeName="Early Ballots" votes="24377" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7100,12 +7100,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="27" precinctsReported="27" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9904" choiceName="Finchem, Mark" partyKey="9" party="REP" totalVotes="61052" isWriteIn="false">
+        <choice key="9904" choiceName="Finchem, Mark" partyKey="9" party="REP" totalVotes="62039" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="61052">
+            <jurisdiction key="0" name="State" votes="62039">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="11969" />
-                <voteType voteTypeName="Early Ballots" votes="49083" />
+                <voteType voteTypeName="Early Ballots" votes="50070" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7116,10 +7116,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="20900">
+            <jurisdiction key="12" name="Pinal" votes="21887">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6068" />
-                <voteType voteTypeName="Early Ballots" votes="14832" />
+                <voteType voteTypeName="Early Ballots" votes="15819" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7150,12 +7150,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9675" choiceName="Perez, Felipe R" partyKey="3" party="DEM" totalVotes="56028" isWriteIn="false">
+        <choice key="9675" choiceName="Perez, Felipe R" partyKey="3" party="DEM" totalVotes="56956" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="56028">
+            <jurisdiction key="0" name="State" votes="56956">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4848" />
-                <voteType voteTypeName="Early Ballots" votes="51180" />
+                <voteType voteTypeName="Early Ballots" votes="52108" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7166,21 +7166,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="19431">
+            <jurisdiction key="12" name="Pinal" votes="20359">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3203" />
-                <voteType voteTypeName="Early Ballots" votes="16228" />
+                <voteType voteTypeName="Early Ballots" votes="17156" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10037" choiceName="Roberts, Bret" partyKey="9" party="REP" totalVotes="61685" isWriteIn="false">
+        <choice key="10037" choiceName="Roberts, Bret" partyKey="9" party="REP" totalVotes="62731" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="61685">
+            <jurisdiction key="0" name="State" votes="62731">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="11822" />
-                <voteType voteTypeName="Early Ballots" votes="49863" />
+                <voteType voteTypeName="Early Ballots" votes="50909" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7191,10 +7191,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="20947">
+            <jurisdiction key="12" name="Pinal" votes="21993">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5950" />
-                <voteType voteTypeName="Early Ballots" votes="14997" />
+                <voteType voteTypeName="Early Ballots" votes="16043" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7234,12 +7234,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9836" choiceName="Grantham, Travis" partyKey="9" party="REP" totalVotes="86330" isWriteIn="false">
+        <choice key="9836" choiceName="Grantham, Travis" partyKey="9" party="REP" totalVotes="86424" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="86330">
+            <jurisdiction key="0" name="State" votes="86424">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7755" />
-                <voteType voteTypeName="Early Ballots" votes="78575" />
+                <voteType voteTypeName="Early Ballots" votes="78669" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7250,21 +7250,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="724">
+            <jurisdiction key="12" name="Pinal" votes="818">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="60" />
-                <voteType voteTypeName="Early Ballots" votes="664" />
+                <voteType voteTypeName="Early Ballots" votes="758" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10090" choiceName="Hoffman, Jake" partyKey="9" party="REP" totalVotes="85286" isWriteIn="false">
+        <choice key="10090" choiceName="Hoffman, Jake" partyKey="9" party="REP" totalVotes="85372" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="85286">
+            <jurisdiction key="0" name="State" votes="85372">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="8157" />
-                <voteType voteTypeName="Early Ballots" votes="77129" />
+                <voteType voteTypeName="Early Ballots" votes="77215" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7275,10 +7275,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="656">
+            <jurisdiction key="12" name="Pinal" votes="742">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="54" />
-                <voteType voteTypeName="Early Ballots" votes="602" />
+                <voteType voteTypeName="Early Ballots" votes="688" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7645,12 +7645,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="21" precinctsReported="21" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9987" choiceName="Fillmore, John" partyKey="9" party="REP" totalVotes="61484" isWriteIn="false">
+        <choice key="9987" choiceName="Fillmore, John" partyKey="9" party="REP" totalVotes="62206" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="61484">
+            <jurisdiction key="0" name="State" votes="62206">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="8566" />
-                <voteType voteTypeName="Early Ballots" votes="52918" />
+                <voteType voteTypeName="Early Ballots" votes="53640" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7661,21 +7661,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="20536">
+            <jurisdiction key="12" name="Pinal" votes="21258">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5025" />
-                <voteType voteTypeName="Early Ballots" votes="15511" />
+                <voteType voteTypeName="Early Ballots" votes="16233" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10138" choiceName="Hunter, Helen" partyKey="3" party="DEM" totalVotes="43564" isWriteIn="false">
+        <choice key="10138" choiceName="Hunter, Helen" partyKey="3" party="DEM" totalVotes="43904" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="43564">
+            <jurisdiction key="0" name="State" votes="43904">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2688" />
-                <voteType voteTypeName="Early Ballots" votes="40876" />
+                <voteType voteTypeName="Early Ballots" votes="41216" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7686,21 +7686,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="13753">
+            <jurisdiction key="12" name="Pinal" votes="14093">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1387" />
-                <voteType voteTypeName="Early Ballots" votes="12366" />
+                <voteType voteTypeName="Early Ballots" votes="12706" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10045" choiceName="Parker, Jacqueline" partyKey="9" party="REP" totalVotes="66870" isWriteIn="false">
+        <choice key="10045" choiceName="Parker, Jacqueline" partyKey="9" party="REP" totalVotes="67638" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="66870">
+            <jurisdiction key="0" name="State" votes="67638">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="8853" />
-                <voteType voteTypeName="Early Ballots" votes="58017" />
+                <voteType voteTypeName="Early Ballots" votes="58785" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7711,10 +7711,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="21964">
+            <jurisdiction key="12" name="Pinal" votes="22732">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5080" />
-                <voteType voteTypeName="Early Ballots" votes="16884" />
+                <voteType voteTypeName="Early Ballots" votes="17652" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -8716,9 +8716,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="3580" contestLongName="Corporation Commissioner" districtKey="2" districtName="Statewide" numberToElect="3" termYears="4" isQuestion="false" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="3580" contestLongName="Corporation Commissioner" districtKey="2" districtName="Statewide" numberToElect="3" termYears="4" isQuestion="false" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -8968,12 +8968,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1336715" isWriteIn="false">
+        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1339979" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1336715">
+            <jurisdiction key="0" name="State" votes="1339979">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="176495" />
-                <voteType voteTypeName="Early Ballots" votes="1160091" />
+                <voteType voteTypeName="Early Ballots" votes="1163355" />
                 <voteType voteTypeName="Provisional Ballots" votes="129" />
               </voteTypes>
             </jurisdiction>
@@ -9054,10 +9054,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="67268">
+            <jurisdiction key="12" name="Pinal" votes="70532">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="17659" />
-                <voteType voteTypeName="Early Ballots" votes="49609" />
+                <voteType voteTypeName="Early Ballots" votes="52873" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9084,12 +9084,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1221988" isWriteIn="false">
+        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1223933" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1221988">
+            <jurisdiction key="0" name="State" votes="1223933">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="73142" />
-                <voteType voteTypeName="Early Ballots" votes="1148782" />
+                <voteType voteTypeName="Early Ballots" votes="1150727" />
                 <voteType voteTypeName="Provisional Ballots" votes="64" />
               </voteTypes>
             </jurisdiction>
@@ -9170,10 +9170,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="47589">
+            <jurisdiction key="12" name="Pinal" votes="49534">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5992" />
-                <voteType voteTypeName="Early Ballots" votes="41597" />
+                <voteType voteTypeName="Early Ballots" votes="43542" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9200,12 +9200,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1322763" isWriteIn="false">
+        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1326081" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1322763">
+            <jurisdiction key="0" name="State" votes="1326081">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="188945" />
-                <voteType voteTypeName="Early Ballots" votes="1133670" />
+                <voteType voteTypeName="Early Ballots" votes="1136988" />
                 <voteType voteTypeName="Provisional Ballots" votes="148" />
               </voteTypes>
             </jurisdiction>
@@ -9286,10 +9286,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="71072">
+            <jurisdiction key="12" name="Pinal" votes="74390">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="19889" />
-                <voteType voteTypeName="Early Ballots" votes="51183" />
+                <voteType voteTypeName="Early Ballots" votes="54501" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9316,12 +9316,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1273226" isWriteIn="false">
+        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1276371" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1273226">
+            <jurisdiction key="0" name="State" votes="1276371">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="172939" />
-                <voteType voteTypeName="Early Ballots" votes="1100162" />
+                <voteType voteTypeName="Early Ballots" votes="1103307" />
                 <voteType voteTypeName="Provisional Ballots" votes="125" />
               </voteTypes>
             </jurisdiction>
@@ -9402,10 +9402,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="66360">
+            <jurisdiction key="12" name="Pinal" votes="69505">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="17643" />
-                <voteType voteTypeName="Early Ballots" votes="48717" />
+                <voteType voteTypeName="Early Ballots" votes="51862" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9432,12 +9432,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1191612" isWriteIn="false">
+        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1193587" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1191612">
+            <jurisdiction key="0" name="State" votes="1193587">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="72944" />
-                <voteType voteTypeName="Early Ballots" votes="1118613" />
+                <voteType voteTypeName="Early Ballots" votes="1120588" />
                 <voteType voteTypeName="Provisional Ballots" votes="55" />
               </voteTypes>
             </jurisdiction>
@@ -9518,10 +9518,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="47076">
+            <jurisdiction key="12" name="Pinal" votes="49051">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6056" />
-                <voteType voteTypeName="Early Ballots" votes="41020" />
+                <voteType voteTypeName="Early Ballots" votes="42995" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9548,12 +9548,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1359376" isWriteIn="false">
+        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1361763" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1359376">
+            <jurisdiction key="0" name="State" votes="1361763">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="91425" />
-                <voteType voteTypeName="Early Ballots" votes="1267861" />
+                <voteType voteTypeName="Early Ballots" votes="1270248" />
                 <voteType voteTypeName="Provisional Ballots" votes="90" />
               </voteTypes>
             </jurisdiction>
@@ -9634,10 +9634,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="55414">
+            <jurisdiction key="12" name="Pinal" votes="57801">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="8035" />
-                <voteType voteTypeName="Early Ballots" votes="47379" />
+                <voteType voteTypeName="Early Ballots" votes="49766" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9666,9 +9666,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="5010" contestLongName="Shall Brutinel, Robert, Justice of the Arizona Supreme Court be retained in office?" districtKey="42" districtName="Arizona Supreme Court" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="5010" contestLongName="Shall Brutinel, Robert, Justice of the Arizona Supreme Court be retained in office?" districtKey="42" districtName="Arizona Supreme Court" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -9686,12 +9686,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10376" choiceName="No" totalVotes="571315" isWriteIn="false">
+        <choice key="10376" choiceName="No" totalVotes="572385" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="571315">
+            <jurisdiction key="0" name="State" votes="572385">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="64002" />
-                <voteType voteTypeName="Early Ballots" votes="507249" />
+                <voteType voteTypeName="Early Ballots" votes="508319" />
                 <voteType voteTypeName="Provisional Ballots" votes="64" />
               </voteTypes>
             </jurisdiction>
@@ -9772,10 +9772,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="24131">
+            <jurisdiction key="12" name="Pinal" votes="25201">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5660" />
-                <voteType voteTypeName="Early Ballots" votes="18471" />
+                <voteType voteTypeName="Early Ballots" votes="19541" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9802,12 +9802,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10360" choiceName="Yes" totalVotes="1732931" isWriteIn="false">
+        <choice key="10360" choiceName="Yes" totalVotes="1737211" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1732931">
+            <jurisdiction key="0" name="State" votes="1737211">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202394" />
-                <voteType voteTypeName="Early Ballots" votes="1530329" />
+                <voteType voteTypeName="Early Ballots" votes="1534609" />
                 <voteType voteTypeName="Provisional Ballots" votes="208" />
               </voteTypes>
             </jurisdiction>
@@ -9888,10 +9888,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="98150">
+            <jurisdiction key="12" name="Pinal" votes="102430">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="24052" />
-                <voteType voteTypeName="Early Ballots" votes="74098" />
+                <voteType voteTypeName="Early Ballots" votes="78378" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9920,9 +9920,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="4978" contestLongName="Shall Gould, Andrew W. , Justice of the Arizona Supreme Court be retained in office?" districtKey="42" districtName="Arizona Supreme Court" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="4978" contestLongName="Shall Gould, Andrew W. , Justice of the Arizona Supreme Court be retained in office?" districtKey="42" districtName="Arizona Supreme Court" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -9940,12 +9940,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10311" choiceName="No" totalVotes="736580" isWriteIn="false">
+        <choice key="10311" choiceName="No" totalVotes="737924" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="736580">
+            <jurisdiction key="0" name="State" votes="737924">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="66825" />
-                <voteType voteTypeName="Early Ballots" votes="669690" />
+                <voteType voteTypeName="Early Ballots" votes="671034" />
                 <voteType voteTypeName="Provisional Ballots" votes="65" />
               </voteTypes>
             </jurisdiction>
@@ -10026,10 +10026,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="30437">
+            <jurisdiction key="12" name="Pinal" votes="31781">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5803" />
-                <voteType voteTypeName="Early Ballots" votes="24634" />
+                <voteType voteTypeName="Early Ballots" votes="25978" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10056,12 +10056,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10327" choiceName="Yes" totalVotes="1558883" isWriteIn="false">
+        <choice key="10327" choiceName="Yes" totalVotes="1562874" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1558883">
+            <jurisdiction key="0" name="State" votes="1562874">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="197168" />
-                <voteType voteTypeName="Early Ballots" votes="1361512" />
+                <voteType voteTypeName="Early Ballots" votes="1365503" />
                 <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
@@ -10142,10 +10142,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="91564">
+            <jurisdiction key="12" name="Pinal" votes="95555">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="23748" />
-                <voteType voteTypeName="Early Ballots" votes="67816" />
+                <voteType voteTypeName="Early Ballots" votes="71807" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10174,9 +10174,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="4994" contestLongName="Shall Lopez IV, John, Justice of the Arizona Supreme Court be retained in office?" districtKey="42" districtName="Arizona Supreme Court" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="4994" contestLongName="Shall Lopez IV, John, Justice of the Arizona Supreme Court be retained in office?" districtKey="42" districtName="Arizona Supreme Court" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -10194,12 +10194,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10344" choiceName="No" totalVotes="633957" isWriteIn="false">
+        <choice key="10344" choiceName="No" totalVotes="635064" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="633957">
+            <jurisdiction key="0" name="State" votes="635064">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="62677" />
-                <voteType voteTypeName="Early Ballots" votes="571215" />
+                <voteType voteTypeName="Early Ballots" votes="572322" />
                 <voteType voteTypeName="Provisional Ballots" votes="65" />
               </voteTypes>
             </jurisdiction>
@@ -10280,10 +10280,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="26529">
+            <jurisdiction key="12" name="Pinal" votes="27636">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5546" />
-                <voteType voteTypeName="Early Ballots" votes="20983" />
+                <voteType voteTypeName="Early Ballots" votes="22090" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10310,12 +10310,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10328" choiceName="Yes" totalVotes="1673646" isWriteIn="false">
+        <choice key="10328" choiceName="Yes" totalVotes="1677895" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1673646">
+            <jurisdiction key="0" name="State" votes="1677895">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202319" />
-                <voteType voteTypeName="Early Ballots" votes="1471122" />
+                <voteType voteTypeName="Early Ballots" votes="1475371" />
                 <voteType voteTypeName="Provisional Ballots" votes="205" />
               </voteTypes>
             </jurisdiction>
@@ -10396,10 +10396,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="96107">
+            <jurisdiction key="12" name="Pinal" votes="100356">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="24108" />
-                <voteType voteTypeName="Early Ballots" votes="71999" />
+                <voteType voteTypeName="Early Ballots" votes="76248" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10692,9 +10692,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="5034" contestLongName="Shall Campbell, Jennifer B., Judge of the Court of Appeals  Division I be retained in office?" districtKey="44" districtName="Court of Appeals Division I (Other)" termYears="0" isQuestion="true" countiesParticipating="7" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="5034" contestLongName="Shall Campbell, Jennifer B., Judge of the Court of Appeals  Division I be retained in office?" districtKey="44" districtName="Court of Appeals Division I (Other)" termYears="0" isQuestion="true" countiesParticipating="7" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
         <jurisdiction key="7" name="La Paz" precinctsParticipating="11" precinctsReported="11" precinctsReportingPercent="100.00" />
@@ -10826,9 +10826,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="5026" contestLongName="Shall Cruz, Maria Elena, Judge of the Court of Appeals  Division I be retained in office?" districtKey="44" districtName="Court of Appeals Division I (Other)" termYears="0" isQuestion="true" countiesParticipating="7" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="5026" contestLongName="Shall Cruz, Maria Elena, Judge of the Court of Appeals  Division I be retained in office?" districtKey="44" districtName="Court of Appeals Division I (Other)" termYears="0" isQuestion="true" countiesParticipating="7" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
         <jurisdiction key="7" name="La Paz" precinctsParticipating="11" precinctsReported="11" precinctsReportingPercent="100.00" />
@@ -11015,12 +11015,12 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10459" choiceName="No" totalVotes="44356" isWriteIn="false">
+        <choice key="10459" choiceName="No" totalVotes="45401" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="44356">
+            <jurisdiction key="0" name="State" votes="45401">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9740" />
-                <voteType voteTypeName="Early Ballots" votes="34547" />
+                <voteType voteTypeName="Early Ballots" votes="35592" />
                 <voteType voteTypeName="Provisional Ballots" votes="69" />
               </voteTypes>
             </jurisdiction>
@@ -11052,10 +11052,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="8" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="24450">
+            <jurisdiction key="12" name="Pinal" votes="25495">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5759" />
-                <voteType voteTypeName="Early Ballots" votes="18691" />
+                <voteType voteTypeName="Early Ballots" votes="19736" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11068,12 +11068,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10452" choiceName="Yes" totalVotes="173387" isWriteIn="false">
+        <choice key="10452" choiceName="Yes" totalVotes="177601" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="173387">
+            <jurisdiction key="0" name="State" votes="177601">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="39930" />
-                <voteType voteTypeName="Early Ballots" votes="133261" />
+                <voteType voteTypeName="Early Ballots" votes="137475" />
                 <voteType voteTypeName="Provisional Ballots" votes="196" />
               </voteTypes>
             </jurisdiction>
@@ -11105,10 +11105,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="17" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="95090">
+            <jurisdiction key="12" name="Pinal" votes="99304">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="23264" />
-                <voteType voteTypeName="Early Ballots" votes="71826" />
+                <voteType voteTypeName="Early Ballots" votes="76040" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11134,12 +11134,12 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10473" choiceName="No" totalVotes="42519" isWriteIn="false">
+        <choice key="10473" choiceName="No" totalVotes="43540" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="42519">
+            <jurisdiction key="0" name="State" votes="43540">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10400" />
-                <voteType voteTypeName="Early Ballots" votes="32050" />
+                <voteType voteTypeName="Early Ballots" votes="33071" />
                 <voteType voteTypeName="Provisional Ballots" votes="69" />
               </voteTypes>
             </jurisdiction>
@@ -11171,10 +11171,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="7" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="23490">
+            <jurisdiction key="12" name="Pinal" votes="24511">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6092" />
-                <voteType voteTypeName="Early Ballots" votes="17398" />
+                <voteType voteTypeName="Early Ballots" votes="18419" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11187,12 +11187,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10466" choiceName="Yes" totalVotes="174805" isWriteIn="false">
+        <choice key="10466" choiceName="Yes" totalVotes="179048" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="174805">
+            <jurisdiction key="0" name="State" votes="179048">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="39186" />
-                <voteType voteTypeName="Early Ballots" votes="135421" />
+                <voteType voteTypeName="Early Ballots" votes="139664" />
                 <voteType voteTypeName="Provisional Ballots" votes="198" />
               </voteTypes>
             </jurisdiction>
@@ -11224,10 +11224,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="18" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="96461">
+            <jurisdiction key="12" name="Pinal" votes="100704">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="22995" />
-                <voteType voteTypeName="Early Ballots" votes="73466" />
+                <voteType voteTypeName="Early Ballots" votes="77709" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11242,9 +11242,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="4955" contestLongName="Proposition 207" districtKey="47" districtName="Ballot Measure Statewide" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="4955" contestLongName="Proposition 207" districtKey="47" districtName="Ballot Measure Statewide" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -11262,12 +11262,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9620" choiceName="No" totalVotes="1210519" isWriteIn="false">
+        <choice key="9620" choiceName="No" totalVotes="1213200" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1210519">
+            <jurisdiction key="0" name="State" votes="1213200">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="141653" />
-                <voteType voteTypeName="Early Ballots" votes="1068720" />
+                <voteType voteTypeName="Early Ballots" votes="1071401" />
                 <voteType voteTypeName="Provisional Ballots" votes="146" />
               </voteTypes>
             </jurisdiction>
@@ -11348,10 +11348,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="61229">
+            <jurisdiction key="12" name="Pinal" votes="63910">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="14824" />
-                <voteType voteTypeName="Early Ballots" votes="46405" />
+                <voteType voteTypeName="Early Ballots" votes="49086" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11378,12 +11378,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9632" choiceName="Yes" totalVotes="1806033" isWriteIn="false">
+        <choice key="9632" choiceName="Yes" totalVotes="1809852" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1806033">
+            <jurisdiction key="0" name="State" votes="1809852">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202314" />
-                <voteType voteTypeName="Early Ballots" votes="1603562" />
+                <voteType voteTypeName="Early Ballots" votes="1607381" />
                 <voteType voteTypeName="Provisional Ballots" votes="157" />
               </voteTypes>
             </jurisdiction>
@@ -11464,10 +11464,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="83342">
+            <jurisdiction key="12" name="Pinal" votes="87161">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="20024" />
-                <voteType voteTypeName="Early Ballots" votes="63318" />
+                <voteType voteTypeName="Early Ballots" votes="67137" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11496,9 +11496,9 @@
         </choice>
       </choices>
     </contest>
-    <contest key="4963" contestLongName="Proposition 208" districtKey="47" districtName="Ballot Measure Statewide" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00">
+    <contest key="4963" contestLongName="Proposition 208" districtKey="47" districtName="Ballot Measure Statewide" termYears="0" isQuestion="true" countiesParticipating="15" countiesReported="15" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00">
       <participatingJurisdictions>
-        <jurisdiction key="0" name="State" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
+        <jurisdiction key="0" name="State" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
         <jurisdiction key="1" name="Apache" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
         <jurisdiction key="2" name="Cochise" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
         <jurisdiction key="3" name="Coconino" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -11516,12 +11516,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10279" choiceName="No" totalVotes="1441021" isWriteIn="false">
+        <choice key="10279" choiceName="No" totalVotes="1444501" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1441021">
+            <jurisdiction key="0" name="State" votes="1444501">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="206062" />
-                <voteType voteTypeName="Early Ballots" votes="1234803" />
+                <voteType voteTypeName="Early Ballots" votes="1238283" />
                 <voteType voteTypeName="Provisional Ballots" votes="156" />
               </voteTypes>
             </jurisdiction>
@@ -11602,10 +11602,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="79162">
+            <jurisdiction key="12" name="Pinal" votes="82642">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="22953" />
-                <voteType voteTypeName="Early Ballots" votes="56209" />
+                <voteType voteTypeName="Early Ballots" votes="59689" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11632,12 +11632,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10293" choiceName="Yes" totalVotes="1558305" isWriteIn="false">
+        <choice key="10293" choiceName="Yes" totalVotes="1561302" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1558305">
+            <jurisdiction key="0" name="State" votes="1561302">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="133068" />
-                <voteType voteTypeName="Early Ballots" votes="1425096" />
+                <voteType voteTypeName="Early Ballots" votes="1428093" />
                 <voteType voteTypeName="Provisional Ballots" votes="141" />
               </voteTypes>
             </jurisdiction>
@@ -11718,10 +11718,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="12" name="Pinal" votes="65391">
+            <jurisdiction key="12" name="Pinal" votes="68388">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="11712" />
-                <voteType voteTypeName="Early Ballots" votes="53679" />
+                <voteType voteTypeName="Early Ballots" votes="56676" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
