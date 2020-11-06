@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <electionResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <electionInformation>
-    <resultsTimestamp>2020-11-06T16:03:40.74</resultsTimestamp>
+    <resultsTimestamp>2020-11-06T16:13:19.23</resultsTimestamp>
     <electionName>2020 General Election</electionName>
     <electionDate>2020-11-03</electionDate>
-    <fileId>8378</fileId>
+    <fileId>8379</fileId>
   </electionInformation>
   <voterTurnout>
     <jurisdictions>
-      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3172531" voterTurnout="74.10" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
+      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3172737" voterTurnout="74.11" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
       <jurisdiction key="1" name="Apache" totalVoters="51906" ballotsCast="24776" voterTurnout="47.73" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       <jurisdiction key="2" name="Cochise" totalVoters="82022" ballotsCast="52484" voterTurnout="63.99" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
       <jurisdiction key="3" name="Coconino" totalVoters="90669" ballotsCast="72163" voterTurnout="79.59" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
-      <jurisdiction key="4" name="Gila" totalVoters="34001" ballotsCast="27849" voterTurnout="81.91" precinctsParticipating="39" precinctsReported="39" precinctsReportingPercent="100.00" />
+      <jurisdiction key="4" name="Gila" totalVoters="34001" ballotsCast="28055" voterTurnout="82.51" precinctsParticipating="39" precinctsReported="39" precinctsReportingPercent="100.00" />
       <jurisdiction key="5" name="Graham" totalVoters="19851" ballotsCast="15111" voterTurnout="76.12" precinctsParticipating="22" precinctsReported="22" precinctsReportingPercent="100.00" />
       <jurisdiction key="6" name="Greenlee" totalVoters="4866" ballotsCast="3723" voterTurnout="76.51" precinctsParticipating="8" precinctsReported="8" precinctsReportingPercent="100.00" />
       <jurisdiction key="7" name="La Paz" totalVoters="10909" ballotsCast="6722" voterTurnout="61.62" precinctsParticipating="11" precinctsReported="11" precinctsReportingPercent="100.00" />
@@ -47,13 +47,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1567561" isWriteIn="false">
+        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1567629" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1567561">
+            <jurisdiction key="0" name="State" votes="1567629">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="117699" />
-                <voteType voteTypeName="Early Ballots" votes="1449751" />
-                <voteType voteTypeName="Provisional Ballots" votes="111" />
+                <voteType voteTypeName="Early Ballots" votes="1449757" />
+                <voteType voteTypeName="Provisional Ballots" votes="173" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="16574">
@@ -77,11 +77,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="8875">
+            <jurisdiction key="4" name="Gila" votes="8943">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1400" />
-                <voteType voteTypeName="Early Ballots" votes="7475" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="7481" />
+                <voteType voteTypeName="Provisional Ballots" votes="62" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="4034">
@@ -511,13 +511,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="45092" isWriteIn="false">
+        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="45094" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="45092">
+            <jurisdiction key="0" name="State" votes="45094">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7019" />
-                <voteType voteTypeName="Early Ballots" votes="38065" />
-                <voteType voteTypeName="Provisional Ballots" votes="8" />
+                <voteType voteTypeName="Early Ballots" votes="38066" />
+                <voteType voteTypeName="Provisional Ballots" votes="9" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="268">
@@ -541,11 +541,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="340">
+            <jurisdiction key="4" name="Gila" votes="342">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="62" />
-                <voteType voteTypeName="Early Ballots" votes="278" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="279" />
+                <voteType voteTypeName="Provisional Ballots" votes="1" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="212">
@@ -859,13 +859,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1528137" isWriteIn="false">
+        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1528271" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1528137">
+            <jurisdiction key="0" name="State" votes="1528271">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="240361" />
-                <voteType voteTypeName="Early Ballots" votes="1287573" />
-                <voteType voteTypeName="Provisional Ballots" votes="203" />
+                <voteType voteTypeName="Early Ballots" votes="1287595" />
+                <voteType voteTypeName="Provisional Ballots" votes="315" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="7491">
@@ -889,11 +889,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="18241">
+            <jurisdiction key="4" name="Gila" votes="18375">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3260" />
-                <voteType voteTypeName="Early Ballots" votes="14981" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="15003" />
+                <voteType voteTypeName="Provisional Ballots" votes="112" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="10747">
@@ -2041,13 +2041,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1606601" isWriteIn="false">
+        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1606683" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1606601">
+            <jurisdiction key="0" name="State" votes="1606683">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="125541" />
-                <voteType voteTypeName="Early Ballots" votes="1480932" />
-                <voteType voteTypeName="Provisional Ballots" votes="128" />
+                <voteType voteTypeName="Early Ballots" votes="1480939" />
+                <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="17070">
@@ -2071,11 +2071,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="9566">
+            <jurisdiction key="4" name="Gila" votes="9648">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1542" />
-                <voteType voteTypeName="Early Ballots" votes="8024" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="8031" />
+                <voteType voteTypeName="Provisional Ballots" votes="75" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="4506">
@@ -2157,13 +2157,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1507606" isWriteIn="false">
+        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1507725" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1507606">
+            <jurisdiction key="0" name="State" votes="1507725">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="233605" />
-                <voteType voteTypeName="Early Ballots" votes="1273813" />
-                <voteType voteTypeName="Provisional Ballots" votes="188" />
+                <voteType voteTypeName="Early Ballots" votes="1273835" />
+                <voteType voteTypeName="Provisional Ballots" votes="285" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="7235">
@@ -2187,11 +2187,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="17768">
+            <jurisdiction key="4" name="Gila" votes="17887">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3150" />
-                <voteType voteTypeName="Early Ballots" votes="14618" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="14640" />
+                <voteType voteTypeName="Provisional Ballots" votes="97" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="10301">
@@ -3219,13 +3219,13 @@
         <jurisdiction key="14" name="Yavapai" precinctsParticipating="7" precinctsReported="7" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9789" choiceName="O'Halleran, Tom" partyKey="3" party="DEM" totalVotes="173896" isWriteIn="false">
+        <choice key="9789" choiceName="O'Halleran, Tom" partyKey="3" party="DEM" totalVotes="173966" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="173896">
+            <jurisdiction key="0" name="State" votes="173966">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="29650" />
-                <voteType voteTypeName="Early Ballots" votes="144207" />
-                <voteType voteTypeName="Provisional Ballots" votes="39" />
+                <voteType voteTypeName="Early Ballots" votes="144210" />
+                <voteType voteTypeName="Provisional Ballots" votes="106" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="16739">
@@ -3242,11 +3242,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4832">
+            <jurisdiction key="4" name="Gila" votes="4902">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1259" />
-                <voteType voteTypeName="Early Ballots" votes="3573" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3576" />
+                <voteType voteTypeName="Provisional Ballots" votes="67" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="4435">
@@ -3307,13 +3307,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9669" choiceName="Shedd, Tiffany" partyKey="9" party="REP" totalVotes="161791" isWriteIn="false">
+        <choice key="9669" choiceName="Shedd, Tiffany" partyKey="9" party="REP" totalVotes="161841" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="161791">
+            <jurisdiction key="0" name="State" votes="161841">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="43895" />
-                <voteType voteTypeName="Early Ballots" votes="117729" />
-                <voteType voteTypeName="Provisional Ballots" votes="167" />
+                <voteType voteTypeName="Early Ballots" votes="117731" />
+                <voteType voteTypeName="Provisional Ballots" votes="215" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="7297">
@@ -3330,11 +3330,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4377">
+            <jurisdiction key="4" name="Gila" votes="4427">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1088" />
-                <voteType voteTypeName="Early Ballots" votes="3289" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3291" />
+                <voteType voteTypeName="Provisional Ballots" votes="48" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="10152">
@@ -3682,20 +3682,20 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="114026" isWriteIn="false">
+        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="114034" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="114026">
+            <jurisdiction key="0" name="State" votes="114034">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9866" />
-                <voteType voteTypeName="Early Ballots" votes="104160" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="104163" />
+                <voteType voteTypeName="Provisional Ballots" votes="5" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4280">
+            <jurisdiction key="4" name="Gila" votes="4288">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="204" />
-                <voteType voteTypeName="Early Ballots" votes="4076" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="4079" />
+                <voteType voteTypeName="Provisional Ballots" votes="5" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="7" name="La Paz" votes="1866">
@@ -3742,20 +3742,20 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="260507" isWriteIn="false">
+        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="260577" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="260507">
+            <jurisdiction key="0" name="State" votes="260577">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="53846" />
-                <voteType voteTypeName="Early Ballots" votes="206661" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="206681" />
+                <voteType voteTypeName="Provisional Ballots" votes="50" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="13429">
+            <jurisdiction key="4" name="Gila" votes="13499">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2033" />
-                <voteType voteTypeName="Early Ballots" votes="11396" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="11416" />
+                <voteType voteTypeName="Provisional Ballots" votes="50" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="7" name="La Paz" votes="4501">
@@ -4662,13 +4662,13 @@
         <jurisdiction key="14" name="Yavapai" precinctsParticipating="10" precinctsReported="10" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10256" choiceName="French, Felicia" partyKey="3" party="DEM" totalVotes="54812" isWriteIn="false">
+        <choice key="10256" choiceName="French, Felicia" partyKey="3" party="DEM" totalVotes="54824" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="54812">
+            <jurisdiction key="0" name="State" votes="54824">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4266" />
-                <voteType voteTypeName="Early Ballots" votes="50546" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="50550" />
+                <voteType voteTypeName="Provisional Ballots" votes="8" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="3" name="Coconino" votes="31281">
@@ -4678,11 +4678,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4484">
+            <jurisdiction key="4" name="Gila" votes="4496">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="243" />
-                <voteType voteTypeName="Early Ballots" votes="4241" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="4245" />
+                <voteType voteTypeName="Provisional Ballots" votes="8" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="10" name="Navajo" votes="2935">
@@ -4701,13 +4701,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9670" choiceName="Rogers, Wendy" partyKey="9" party="REP" totalVotes="65473" isWriteIn="false">
+        <choice key="9670" choiceName="Rogers, Wendy" partyKey="9" party="REP" totalVotes="65539" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="65473">
+            <jurisdiction key="0" name="State" votes="65539">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="14040" />
-                <voteType voteTypeName="Early Ballots" votes="51433" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="51452" />
+                <voteType voteTypeName="Provisional Ballots" votes="47" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="3" name="Coconino" votes="21446">
@@ -4717,11 +4717,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="13449">
+            <jurisdiction key="4" name="Gila" votes="13515">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2027" />
-                <voteType voteTypeName="Early Ballots" votes="11422" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="11441" />
+                <voteType voteTypeName="Provisional Ballots" votes="47" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="10" name="Navajo" votes="11553">
@@ -4754,13 +4754,13 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="1" precinctsReported="1" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10238" choiceName="Peshlakai, Jamescita" partyKey="3" party="DEM" totalVotes="60171" isWriteIn="false">
+        <choice key="10238" choiceName="Peshlakai, Jamescita" partyKey="3" party="DEM" totalVotes="60216" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="60171">
+            <jurisdiction key="0" name="State" votes="60216">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="20250" />
                 <voteType voteTypeName="Early Ballots" votes="39905" />
-                <voteType voteTypeName="Provisional Ballots" votes="16" />
+                <voteType voteTypeName="Provisional Ballots" votes="61" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="18936">
@@ -4777,11 +4777,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="1587">
+            <jurisdiction key="4" name="Gila" votes="1632">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="911" />
                 <voteType voteTypeName="Early Ballots" votes="676" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Provisional Ballots" votes="45" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="1087">
@@ -4823,20 +4823,20 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="51" precinctsReported="51" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9821" choiceName="McGuire, Barbara" partyKey="3" party="DEM" totalVotes="31490" isWriteIn="false">
+        <choice key="9821" choiceName="McGuire, Barbara" partyKey="3" party="DEM" totalVotes="31515" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="31490">
+            <jurisdiction key="0" name="State" votes="31515">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5238" />
-                <voteType voteTypeName="Early Ballots" votes="26252" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="26254" />
+                <voteType voteTypeName="Provisional Ballots" votes="23" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="3091">
+            <jurisdiction key="4" name="Gila" votes="3116">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="370" />
-                <voteType voteTypeName="Early Ballots" votes="2721" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="2723" />
+                <voteType voteTypeName="Provisional Ballots" votes="23" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="12" name="Pinal" votes="28399">
@@ -4848,20 +4848,20 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9797" choiceName="Shope, Thomas &quot;T.J.&quot;" partyKey="9" party="REP" totalVotes="42621" isWriteIn="false">
+        <choice key="9797" choiceName="Shope, Thomas &quot;T.J.&quot;" partyKey="9" party="REP" totalVotes="42661" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="42621">
+            <jurisdiction key="0" name="State" votes="42661">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="12667" />
-                <voteType voteTypeName="Early Ballots" votes="29954" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="29957" />
+                <voteType voteTypeName="Provisional Ballots" votes="37" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4046">
+            <jurisdiction key="4" name="Gila" votes="4086">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="895" />
-                <voteType voteTypeName="Early Ballots" votes="3151" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3154" />
+                <voteType voteTypeName="Provisional Ballots" votes="37" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="12" name="Pinal" votes="38575">
@@ -6370,13 +6370,13 @@
         <jurisdiction key="14" name="Yavapai" precinctsParticipating="10" precinctsReported="10" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="8620" choiceName="Babbott, Art" partyKey="1" party="INDEPENDENT" totalVotes="39182" isWriteIn="false">
+        <choice key="8620" choiceName="Babbott, Art" partyKey="1" party="INDEPENDENT" totalVotes="39190" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="39182">
+            <jurisdiction key="0" name="State" votes="39190">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3418" />
-                <voteType voteTypeName="Early Ballots" votes="35764" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="35768" />
+                <voteType voteTypeName="Provisional Ballots" votes="4" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="3" name="Coconino" votes="23440">
@@ -6386,11 +6386,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="3246">
+            <jurisdiction key="4" name="Gila" votes="3254">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="210" />
-                <voteType voteTypeName="Early Ballots" votes="3036" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3040" />
+                <voteType voteTypeName="Provisional Ballots" votes="4" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="10" name="Navajo" votes="1811">
@@ -6409,13 +6409,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9668" choiceName="Barton, Brenda" partyKey="9" party="REP" totalVotes="52599" isWriteIn="false">
+        <choice key="9668" choiceName="Barton, Brenda" partyKey="9" party="REP" totalVotes="52648" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="52599">
+            <jurisdiction key="0" name="State" votes="52648">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10322" />
-                <voteType voteTypeName="Early Ballots" votes="42277" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="42292" />
+                <voteType voteTypeName="Provisional Ballots" votes="34" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="3" name="Coconino" votes="15745">
@@ -6425,11 +6425,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="11528">
+            <jurisdiction key="4" name="Gila" votes="11577">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1586" />
-                <voteType voteTypeName="Early Ballots" votes="9942" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="9957" />
+                <voteType voteTypeName="Provisional Ballots" votes="34" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="10" name="Navajo" votes="9171">
@@ -6448,13 +6448,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10032" choiceName="Blackman, Walter &quot;Walt&quot;" partyKey="9" party="REP" totalVotes="57741" isWriteIn="false">
+        <choice key="10032" choiceName="Blackman, Walter &quot;Walt&quot;" partyKey="9" party="REP" totalVotes="57799" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="57741">
+            <jurisdiction key="0" name="State" votes="57799">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="12108" />
-                <voteType voteTypeName="Early Ballots" votes="45633" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="45652" />
+                <voteType voteTypeName="Provisional Ballots" votes="39" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="3" name="Coconino" votes="17762">
@@ -6464,11 +6464,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="12438">
+            <jurisdiction key="4" name="Gila" votes="12496">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1846" />
-                <voteType voteTypeName="Early Ballots" votes="10592" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="10611" />
+                <voteType voteTypeName="Provisional Ballots" votes="39" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="10" name="Navajo" votes="11063">
@@ -6487,13 +6487,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10123" choiceName="Evans, Coral J" partyKey="3" party="DEM" totalVotes="51075" isWriteIn="false">
+        <choice key="10123" choiceName="Evans, Coral J" partyKey="3" party="DEM" totalVotes="51083" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="51075">
+            <jurisdiction key="0" name="State" votes="51083">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3852" />
-                <voteType voteTypeName="Early Ballots" votes="47223" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="47226" />
+                <voteType voteTypeName="Provisional Ballots" votes="5" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="3" name="Coconino" votes="29029">
@@ -6503,11 +6503,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4208">
+            <jurisdiction key="4" name="Gila" votes="4216">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="194" />
-                <voteType voteTypeName="Early Ballots" votes="4014" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="4017" />
+                <voteType voteTypeName="Provisional Ballots" votes="5" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="10" name="Navajo" votes="2606">
@@ -6540,13 +6540,13 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="1" precinctsReported="1" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9899" choiceName="Parks, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="23559" isWriteIn="false">
+        <choice key="9899" choiceName="Parks, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="23562" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="23559">
+            <jurisdiction key="0" name="State" votes="23562">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7990" />
                 <voteType voteTypeName="Early Ballots" votes="15566" />
-                <voteType voteTypeName="Provisional Ballots" votes="3" />
+                <voteType voteTypeName="Provisional Ballots" votes="6" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5429">
@@ -6563,11 +6563,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="199">
+            <jurisdiction key="4" name="Gila" votes="202">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="124" />
                 <voteType voteTypeName="Early Ballots" votes="75" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Provisional Ballots" votes="3" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="91">
@@ -6600,13 +6600,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10083" choiceName="Peelman, David" partyKey="9" party="REP" totalVotes="21944" isWriteIn="false">
+        <choice key="10083" choiceName="Peelman, David" partyKey="9" party="REP" totalVotes="21950" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="21944">
+            <jurisdiction key="0" name="State" votes="21950">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7605" />
                 <voteType voteTypeName="Early Ballots" votes="14338" />
-                <voteType voteTypeName="Provisional Ballots" votes="1" />
+                <voteType voteTypeName="Provisional Ballots" votes="7" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5766">
@@ -6623,11 +6623,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="161">
+            <jurisdiction key="4" name="Gila" votes="167">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="82" />
                 <voteType voteTypeName="Early Ballots" votes="79" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Provisional Ballots" votes="6" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="81">
@@ -6660,13 +6660,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10255" choiceName="Teller, Arlando" partyKey="3" party="DEM" totalVotes="36951" isWriteIn="false">
+        <choice key="10255" choiceName="Teller, Arlando" partyKey="3" party="DEM" totalVotes="36979" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="36951">
+            <jurisdiction key="0" name="State" votes="36979">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10645" />
                 <voteType voteTypeName="Early Ballots" votes="26299" />
-                <voteType voteTypeName="Provisional Ballots" votes="7" />
+                <voteType voteTypeName="Provisional Ballots" votes="35" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="12134">
@@ -6683,11 +6683,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="950">
+            <jurisdiction key="4" name="Gila" votes="978">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="478" />
                 <voteType voteTypeName="Early Ballots" votes="472" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Provisional Ballots" votes="28" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="647">
@@ -6720,13 +6720,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10115" choiceName="Tsosie, Myron" partyKey="3" party="DEM" totalVotes="45563" isWriteIn="false">
+        <choice key="10115" choiceName="Tsosie, Myron" partyKey="3" party="DEM" totalVotes="45602" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="45563">
+            <jurisdiction key="0" name="State" votes="45602">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="14625" />
                 <voteType voteTypeName="Early Ballots" votes="30923" />
-                <voteType voteTypeName="Provisional Ballots" votes="15" />
+                <voteType voteTypeName="Provisional Ballots" votes="54" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="14268">
@@ -6743,11 +6743,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="1476">
+            <jurisdiction key="4" name="Gila" votes="1515">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="842" />
                 <voteType voteTypeName="Early Ballots" votes="634" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Provisional Ballots" votes="39" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="1013">
@@ -6849,20 +6849,20 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="51" precinctsReported="51" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9860" choiceName="Cook, David" partyKey="9" party="REP" totalVotes="38065" isWriteIn="false">
+        <choice key="9860" choiceName="Cook, David" partyKey="9" party="REP" totalVotes="38102" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="38065">
+            <jurisdiction key="0" name="State" votes="38102">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10543" />
-                <voteType voteTypeName="Early Ballots" votes="27522" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="27526" />
+                <voteType voteTypeName="Provisional Ballots" votes="33" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="3526">
+            <jurisdiction key="4" name="Gila" votes="3563">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="738" />
-                <voteType voteTypeName="Early Ballots" votes="2788" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="2792" />
+                <voteType voteTypeName="Provisional Ballots" votes="33" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="12" name="Pinal" votes="34539">
@@ -6874,20 +6874,20 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9767" choiceName="Girard, Sharon" partyKey="3" party="DEM" totalVotes="32717" isWriteIn="false">
+        <choice key="9767" choiceName="Girard, Sharon" partyKey="3" party="DEM" totalVotes="32738" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="32717">
+            <jurisdiction key="0" name="State" votes="32738">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5397" />
-                <voteType voteTypeName="Early Ballots" votes="27320" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="27322" />
+                <voteType voteTypeName="Provisional Ballots" votes="19" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="3292">
+            <jurisdiction key="4" name="Gila" votes="3313">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="367" />
-                <voteType voteTypeName="Early Ballots" votes="2925" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="2927" />
+                <voteType voteTypeName="Provisional Ballots" votes="19" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="12" name="Pinal" votes="29425">
@@ -6924,20 +6924,20 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10066" choiceName="Pratt, Frank" partyKey="9" party="REP" totalVotes="37157" isWriteIn="false">
+        <choice key="10066" choiceName="Pratt, Frank" partyKey="9" party="REP" totalVotes="37191" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="37157">
+            <jurisdiction key="0" name="State" votes="37191">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9551" />
-                <voteType voteTypeName="Early Ballots" votes="27606" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="27609" />
+                <voteType voteTypeName="Provisional Ballots" votes="31" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="3989">
+            <jurisdiction key="4" name="Gila" votes="4023">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="760" />
-                <voteType voteTypeName="Early Ballots" votes="3229" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3232" />
+                <voteType voteTypeName="Provisional Ballots" votes="31" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="12" name="Pinal" votes="33168">
@@ -8968,13 +8968,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1342257" isWriteIn="false">
+        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1342336" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1342257">
+            <jurisdiction key="0" name="State" votes="1342336">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="176495" />
-                <voteType voteTypeName="Early Ballots" votes="1165633" />
-                <voteType voteTypeName="Provisional Ballots" votes="129" />
+                <voteType voteTypeName="Early Ballots" votes="1165652" />
+                <voteType voteTypeName="Provisional Ballots" votes="189" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5054">
@@ -8998,11 +8998,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="14830">
+            <jurisdiction key="4" name="Gila" votes="14909">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2266" />
-                <voteType voteTypeName="Early Ballots" votes="12564" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="12583" />
+                <voteType voteTypeName="Provisional Ballots" votes="60" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="8485">
@@ -9084,13 +9084,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1225534" isWriteIn="false">
+        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1225581" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1225534">
+            <jurisdiction key="0" name="State" votes="1225581">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="73142" />
-                <voteType voteTypeName="Early Ballots" votes="1152328" />
-                <voteType voteTypeName="Provisional Ballots" votes="64" />
+                <voteType voteTypeName="Early Ballots" votes="1152331" />
+                <voteType voteTypeName="Provisional Ballots" votes="108" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10999">
@@ -9114,11 +9114,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="7719">
+            <jurisdiction key="4" name="Gila" votes="7766">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="986" />
-                <voteType voteTypeName="Early Ballots" votes="6733" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="6736" />
+                <voteType voteTypeName="Provisional Ballots" votes="44" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="3043">
@@ -9200,13 +9200,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1328240" isWriteIn="false">
+        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1328334" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1328240">
+            <jurisdiction key="0" name="State" votes="1328334">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="188945" />
-                <voteType voteTypeName="Early Ballots" votes="1139147" />
-                <voteType voteTypeName="Provisional Ballots" votes="148" />
+                <voteType voteTypeName="Early Ballots" votes="1139168" />
+                <voteType voteTypeName="Provisional Ballots" votes="221" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5890">
@@ -9230,11 +9230,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="15652">
+            <jurisdiction key="4" name="Gila" votes="15746">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2624" />
-                <voteType voteTypeName="Early Ballots" votes="13028" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="13049" />
+                <voteType voteTypeName="Provisional Ballots" votes="73" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="8815">
@@ -9316,13 +9316,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1278354" isWriteIn="false">
+        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1278430" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1278354">
+            <jurisdiction key="0" name="State" votes="1278430">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="172939" />
-                <voteType voteTypeName="Early Ballots" votes="1105290" />
-                <voteType voteTypeName="Provisional Ballots" votes="125" />
+                <voteType voteTypeName="Early Ballots" votes="1105306" />
+                <voteType voteTypeName="Provisional Ballots" votes="185" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5708">
@@ -9346,11 +9346,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="14738">
+            <jurisdiction key="4" name="Gila" votes="14814">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2312" />
-                <voteType voteTypeName="Early Ballots" votes="12426" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="12442" />
+                <voteType voteTypeName="Provisional Ballots" votes="60" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="8281">
@@ -9432,13 +9432,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1195102" isWriteIn="false">
+        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1195152" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1195102">
+            <jurisdiction key="0" name="State" votes="1195152">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="72944" />
-                <voteType voteTypeName="Early Ballots" votes="1122103" />
-                <voteType voteTypeName="Provisional Ballots" votes="55" />
+                <voteType voteTypeName="Early Ballots" votes="1122106" />
+                <voteType voteTypeName="Provisional Ballots" votes="102" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10796">
@@ -9462,11 +9462,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="7173">
+            <jurisdiction key="4" name="Gila" votes="7223">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="922" />
-                <voteType voteTypeName="Early Ballots" votes="6251" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="6254" />
+                <voteType voteTypeName="Provisional Ballots" votes="47" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="2931">
@@ -9548,13 +9548,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1364166" isWriteIn="false">
+        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1364226" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1364166">
+            <jurisdiction key="0" name="State" votes="1364226">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="91425" />
-                <voteType voteTypeName="Early Ballots" votes="1272651" />
-                <voteType voteTypeName="Provisional Ballots" votes="90" />
+                <voteType voteTypeName="Early Ballots" votes="1272659" />
+                <voteType voteTypeName="Provisional Ballots" votes="142" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="11293">
@@ -9578,11 +9578,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="8231">
+            <jurisdiction key="4" name="Gila" votes="8291">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1102" />
-                <voteType voteTypeName="Early Ballots" votes="7129" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="7137" />
+                <voteType voteTypeName="Provisional Ballots" votes="52" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="3692">
@@ -9686,13 +9686,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10376" choiceName="No" totalVotes="573367" isWriteIn="false">
+        <choice key="10376" choiceName="No" totalVotes="573388" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="573367">
+            <jurisdiction key="0" name="State" votes="573388">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="64002" />
-                <voteType voteTypeName="Early Ballots" votes="509301" />
-                <voteType voteTypeName="Provisional Ballots" votes="64" />
+                <voteType voteTypeName="Early Ballots" votes="509305" />
+                <voteType voteTypeName="Provisional Ballots" votes="81" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="6023">
@@ -9716,11 +9716,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="3930">
+            <jurisdiction key="4" name="Gila" votes="3951">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="774" />
-                <voteType voteTypeName="Early Ballots" votes="3156" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3160" />
+                <voteType voteTypeName="Provisional Ballots" votes="17" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="2129">
@@ -9802,13 +9802,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10360" choiceName="Yes" totalVotes="1740846" isWriteIn="false">
+        <choice key="10360" choiceName="Yes" totalVotes="1740983" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1740846">
+            <jurisdiction key="0" name="State" votes="1740983">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202394" />
-                <voteType voteTypeName="Early Ballots" votes="1538244" />
-                <voteType voteTypeName="Provisional Ballots" votes="208" />
+                <voteType voteTypeName="Early Ballots" votes="1538264" />
+                <voteType voteTypeName="Provisional Ballots" votes="325" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="15974">
@@ -9832,11 +9832,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="18043">
+            <jurisdiction key="4" name="Gila" votes="18180">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3015" />
-                <voteType voteTypeName="Early Ballots" votes="15028" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="15048" />
+                <voteType voteTypeName="Provisional Ballots" votes="117" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="10468">
@@ -9940,13 +9940,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10311" choiceName="No" totalVotes="738962" isWriteIn="false">
+        <choice key="10311" choiceName="No" totalVotes="738983" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="738962">
+            <jurisdiction key="0" name="State" votes="738983">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="66825" />
-                <voteType voteTypeName="Early Ballots" votes="672072" />
-                <voteType voteTypeName="Provisional Ballots" votes="65" />
+                <voteType voteTypeName="Early Ballots" votes="672075" />
+                <voteType voteTypeName="Provisional Ballots" votes="83" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5942">
@@ -9970,11 +9970,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4116">
+            <jurisdiction key="4" name="Gila" votes="4137">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="701" />
-                <voteType voteTypeName="Early Ballots" votes="3415" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3418" />
+                <voteType voteTypeName="Provisional Ballots" votes="18" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="2285">
@@ -10056,13 +10056,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10327" choiceName="Yes" totalVotes="1566504" isWriteIn="false">
+        <choice key="10327" choiceName="Yes" totalVotes="1566640" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1566504">
+            <jurisdiction key="0" name="State" votes="1566640">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="197168" />
-                <voteType voteTypeName="Early Ballots" votes="1369133" />
-                <voteType voteTypeName="Provisional Ballots" votes="203" />
+                <voteType voteTypeName="Early Ballots" votes="1369153" />
+                <voteType voteTypeName="Provisional Ballots" votes="319" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="15956">
@@ -10086,11 +10086,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="17790">
+            <jurisdiction key="4" name="Gila" votes="17926">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3058" />
-                <voteType voteTypeName="Early Ballots" votes="14732" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="14752" />
+                <voteType voteTypeName="Provisional Ballots" votes="116" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="10219">
@@ -10194,13 +10194,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10344" choiceName="No" totalVotes="635938" isWriteIn="false">
+        <choice key="10344" choiceName="No" totalVotes="635957" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="635938">
+            <jurisdiction key="0" name="State" votes="635957">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="62677" />
-                <voteType voteTypeName="Early Ballots" votes="573196" />
-                <voteType voteTypeName="Provisional Ballots" votes="65" />
+                <voteType voteTypeName="Early Ballots" votes="573200" />
+                <voteType voteTypeName="Provisional Ballots" votes="80" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="5741">
@@ -10224,11 +10224,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="3886">
+            <jurisdiction key="4" name="Gila" votes="3905">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="701" />
-                <voteType voteTypeName="Early Ballots" votes="3185" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3189" />
+                <voteType voteTypeName="Provisional Ballots" votes="15" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="2016">
@@ -10310,13 +10310,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10328" choiceName="Yes" totalVotes="1681614" isWriteIn="false">
+        <choice key="10328" choiceName="Yes" totalVotes="1681751" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1681614">
+            <jurisdiction key="0" name="State" votes="1681751">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202319" />
-                <voteType voteTypeName="Early Ballots" votes="1479090" />
-                <voteType voteTypeName="Provisional Ballots" votes="205" />
+                <voteType voteTypeName="Early Ballots" votes="1479110" />
+                <voteType voteTypeName="Provisional Ballots" votes="322" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="16107">
@@ -10340,11 +10340,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="18071">
+            <jurisdiction key="4" name="Gila" votes="18208">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3066" />
-                <voteType voteTypeName="Early Ballots" votes="15005" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="15025" />
+                <voteType voteTypeName="Provisional Ballots" votes="117" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="10582">
@@ -11015,13 +11015,13 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10459" choiceName="No" totalVotes="45401" isWriteIn="false">
+        <choice key="10459" choiceName="No" totalVotes="45420" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="45401">
+            <jurisdiction key="0" name="State" votes="45420">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9740" />
-                <voteType voteTypeName="Early Ballots" votes="35592" />
-                <voteType voteTypeName="Provisional Ballots" votes="69" />
+                <voteType voteTypeName="Early Ballots" votes="35594" />
+                <voteType voteTypeName="Provisional Ballots" votes="86" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="8351">
@@ -11031,11 +11031,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4158">
+            <jurisdiction key="4" name="Gila" votes="4177">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="798" />
-                <voteType voteTypeName="Early Ballots" votes="3360" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3362" />
+                <voteType voteTypeName="Provisional Ballots" votes="17" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="2260">
@@ -11068,13 +11068,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10452" choiceName="Yes" totalVotes="177601" isWriteIn="false">
+        <choice key="10452" choiceName="Yes" totalVotes="177736" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="177601">
+            <jurisdiction key="0" name="State" votes="177736">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="39930" />
-                <voteType voteTypeName="Early Ballots" votes="137475" />
-                <voteType voteTypeName="Provisional Ballots" votes="196" />
+                <voteType voteTypeName="Early Ballots" votes="137496" />
+                <voteType voteTypeName="Provisional Ballots" votes="310" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="36086">
@@ -11084,11 +11084,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="17389">
+            <jurisdiction key="4" name="Gila" votes="17524">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2928" />
-                <voteType voteTypeName="Early Ballots" votes="14461" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="14482" />
+                <voteType voteTypeName="Provisional Ballots" votes="114" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="10228">
@@ -11134,13 +11134,13 @@
         <jurisdiction key="13" name="Santa Cruz" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10473" choiceName="No" totalVotes="43540" isWriteIn="false">
+        <choice key="10473" choiceName="No" totalVotes="43566" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="43540">
+            <jurisdiction key="0" name="State" votes="43566">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10400" />
-                <voteType voteTypeName="Early Ballots" votes="33071" />
-                <voteType voteTypeName="Provisional Ballots" votes="69" />
+                <voteType voteTypeName="Early Ballots" votes="33075" />
+                <voteType voteTypeName="Provisional Ballots" votes="91" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="8251">
@@ -11150,11 +11150,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="4652">
+            <jurisdiction key="4" name="Gila" votes="4678">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="896" />
-                <voteType voteTypeName="Early Ballots" votes="3756" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="3760" />
+                <voteType voteTypeName="Provisional Ballots" votes="22" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="2287">
@@ -11187,13 +11187,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10466" choiceName="Yes" totalVotes="179048" isWriteIn="false">
+        <choice key="10466" choiceName="Yes" totalVotes="179174" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="179048">
+            <jurisdiction key="0" name="State" votes="179174">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="39186" />
-                <voteType voteTypeName="Early Ballots" votes="139664" />
-                <voteType voteTypeName="Provisional Ballots" votes="198" />
+                <voteType voteTypeName="Early Ballots" votes="139681" />
+                <voteType voteTypeName="Provisional Ballots" votes="307" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="2" name="Cochise" votes="35806">
@@ -11203,11 +11203,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="17049">
+            <jurisdiction key="4" name="Gila" votes="17175">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2833" />
-                <voteType voteTypeName="Early Ballots" votes="14216" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="14233" />
+                <voteType voteTypeName="Provisional Ballots" votes="109" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="9752">
@@ -11262,13 +11262,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9620" choiceName="No" totalVotes="1215693" isWriteIn="false">
+        <choice key="9620" choiceName="No" totalVotes="1215751" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1215693">
+            <jurisdiction key="0" name="State" votes="1215751">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="141653" />
-                <voteType voteTypeName="Early Ballots" votes="1073894" />
-                <voteType voteTypeName="Provisional Ballots" votes="146" />
+                <voteType voteTypeName="Early Ballots" votes="1073905" />
+                <voteType voteTypeName="Provisional Ballots" votes="193" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="12490">
@@ -11292,11 +11292,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="12224">
+            <jurisdiction key="4" name="Gila" votes="12282">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1950" />
-                <voteType voteTypeName="Early Ballots" votes="10274" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="10285" />
+                <voteType voteTypeName="Provisional Ballots" votes="47" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="8374">
@@ -11378,13 +11378,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9632" choiceName="Yes" totalVotes="1813008" isWriteIn="false">
+        <choice key="9632" choiceName="Yes" totalVotes="1813118" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1813008">
+            <jurisdiction key="0" name="State" votes="1813118">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202314" />
-                <voteType voteTypeName="Early Ballots" votes="1610537" />
-                <voteType voteTypeName="Provisional Ballots" votes="157" />
+                <voteType voteTypeName="Early Ballots" votes="1610553" />
+                <voteType voteTypeName="Provisional Ballots" votes="251" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10473">
@@ -11408,11 +11408,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="13827">
+            <jurisdiction key="4" name="Gila" votes="13937">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2472" />
-                <voteType voteTypeName="Early Ballots" votes="11355" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="11371" />
+                <voteType voteTypeName="Provisional Ballots" votes="94" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="6251">
@@ -11516,13 +11516,13 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10279" choiceName="No" totalVotes="1447028" isWriteIn="false">
+        <choice key="10279" choiceName="No" totalVotes="1447123" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1447028">
+            <jurisdiction key="0" name="State" votes="1447123">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="206062" />
-                <voteType voteTypeName="Early Ballots" votes="1240810" />
-                <voteType voteTypeName="Provisional Ballots" votes="156" />
+                <voteType voteTypeName="Early Ballots" votes="1240827" />
+                <voteType voteTypeName="Provisional Ballots" votes="234" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="10022">
@@ -11546,11 +11546,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="15470">
+            <jurisdiction key="4" name="Gila" votes="15565">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2774" />
-                <voteType voteTypeName="Early Ballots" votes="12696" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="12713" />
+                <voteType voteTypeName="Provisional Ballots" votes="78" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="9551">
@@ -11632,13 +11632,13 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10293" choiceName="Yes" totalVotes="1564371" isWriteIn="false">
+        <choice key="10293" choiceName="Yes" totalVotes="1564447" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1564371">
+            <jurisdiction key="0" name="State" votes="1564447">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="133068" />
-                <voteType voteTypeName="Early Ballots" votes="1431162" />
-                <voteType voteTypeName="Provisional Ballots" votes="141" />
+                <voteType voteTypeName="Early Ballots" votes="1431172" />
+                <voteType voteTypeName="Provisional Ballots" votes="207" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="1" name="Apache" votes="12901">
@@ -11662,11 +11662,11 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="4" name="Gila" votes="10755">
+            <jurisdiction key="4" name="Gila" votes="10831">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1670" />
-                <voteType voteTypeName="Early Ballots" votes="9085" />
-                <voteType voteTypeName="Provisional Ballots" votes="0" />
+                <voteType voteTypeName="Early Ballots" votes="9095" />
+                <voteType voteTypeName="Provisional Ballots" votes="66" />
               </voteTypes>
             </jurisdiction>
             <jurisdiction key="5" name="Graham" votes="5030">
