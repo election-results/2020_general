@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <electionResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <electionInformation>
-    <resultsTimestamp>2020-11-06T09:09:06.34</resultsTimestamp>
+    <resultsTimestamp>2020-11-06T12:22:36.227</resultsTimestamp>
     <electionName>2020 General Election</electionName>
     <electionDate>2020-11-03</electionDate>
-    <fileId>8373</fileId>
+    <fileId>8374</fileId>
   </electionInformation>
   <voterTurnout>
     <jurisdictions>
-      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3154794" voterTurnout="73.69" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
+      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3158791" voterTurnout="73.78" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
       <jurisdiction key="1" name="Apache" totalVoters="51906" ballotsCast="24776" voterTurnout="47.73" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       <jurisdiction key="2" name="Cochise" totalVoters="82022" ballotsCast="52484" voterTurnout="63.99" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
       <jurisdiction key="3" name="Coconino" totalVoters="90669" ballotsCast="72163" voterTurnout="79.59" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -17,7 +17,7 @@
       <jurisdiction key="6" name="Greenlee" totalVoters="4866" ballotsCast="3723" voterTurnout="76.51" precinctsParticipating="8" precinctsReported="8" precinctsReportingPercent="100.00" />
       <jurisdiction key="7" name="La Paz" totalVoters="10909" ballotsCast="6722" voterTurnout="61.62" precinctsParticipating="11" precinctsReported="11" precinctsReportingPercent="100.00" />
       <jurisdiction key="8" name="Maricopa" totalVoters="2595272" ballotsCast="1931201" voterTurnout="74.41" precinctsParticipating="743" precinctsReported="743" precinctsReportingPercent="100.00" />
-      <jurisdiction key="9" name="Mohave" totalVoters="135180" ballotsCast="100455" voterTurnout="74.31" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
+      <jurisdiction key="9" name="Mohave" totalVoters="135180" ballotsCast="104452" voterTurnout="77.27" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       <jurisdiction key="10" name="Navajo" totalVoters="70650" ballotsCast="49924" voterTurnout="70.66" precinctsParticipating="14" precinctsReported="14" precinctsReportingPercent="100.00" />
       <jurisdiction key="11" name="Pima" totalVoters="638355" ballotsCast="497631" voterTurnout="77.96" precinctsParticipating="249" precinctsReported="249" precinctsReportingPercent="100.00" />
       <jurisdiction key="12" name="Pinal" totalVoters="248874" ballotsCast="150424" voterTurnout="60.44" precinctsParticipating="102" precinctsReported="102" precinctsReportingPercent="100.00" />
@@ -47,12 +47,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1561147" isWriteIn="false">
+        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1561841" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1561147">
+            <jurisdiction key="0" name="State" votes="1561841">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="117699" />
-                <voteType voteTypeName="Early Ballots" votes="1443337" />
+                <voteType voteTypeName="Early Ballots" votes="1444031" />
                 <voteType voteTypeName="Provisional Ballots" votes="111" />
               </voteTypes>
             </jurisdiction>
@@ -112,10 +112,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="23993">
+            <jurisdiction key="9" name="Mohave" votes="24687">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2943" />
-                <voteType voteTypeName="Early Ballots" votes="21050" />
+                <voteType voteTypeName="Early Ballots" votes="21744" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -511,12 +511,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="44710" isWriteIn="false">
+        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="44802" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="44710">
+            <jurisdiction key="0" name="State" votes="44802">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7019" />
-                <voteType voteTypeName="Early Ballots" votes="37683" />
+                <voteType voteTypeName="Early Ballots" votes="37775" />
                 <voteType voteTypeName="Provisional Ballots" votes="8" />
               </voteTypes>
             </jurisdiction>
@@ -576,10 +576,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="1189">
+            <jurisdiction key="9" name="Mohave" votes="1281">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="358" />
-                <voteType voteTypeName="Early Ballots" votes="831" />
+                <voteType voteTypeName="Early Ballots" votes="923" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -859,12 +859,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1517368" isWriteIn="false">
+        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1520539" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1517368">
+            <jurisdiction key="0" name="State" votes="1520539">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="240361" />
-                <voteType voteTypeName="Early Ballots" votes="1276804" />
+                <voteType voteTypeName="Early Ballots" votes="1279975" />
                 <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
@@ -924,10 +924,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="74553">
+            <jurisdiction key="9" name="Mohave" votes="77724">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="20938" />
-                <voteType voteTypeName="Early Ballots" votes="53615" />
+                <voteType voteTypeName="Early Ballots" votes="56786" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -2041,12 +2041,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1599732" isWriteIn="false">
+        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1600547" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1599732">
+            <jurisdiction key="0" name="State" votes="1600547">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="125541" />
-                <voteType voteTypeName="Early Ballots" votes="1474063" />
+                <voteType voteTypeName="Early Ballots" votes="1474878" />
                 <voteType voteTypeName="Provisional Ballots" votes="128" />
               </voteTypes>
             </jurisdiction>
@@ -2106,10 +2106,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="26405">
+            <jurisdiction key="9" name="Mohave" votes="27220">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3624" />
-                <voteType voteTypeName="Early Ballots" votes="22781" />
+                <voteType voteTypeName="Early Ballots" votes="23596" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -2157,12 +2157,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1497199" isWriteIn="false">
+        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1500261" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1497199">
+            <jurisdiction key="0" name="State" votes="1500261">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="233605" />
-                <voteType voteTypeName="Early Ballots" votes="1263406" />
+                <voteType voteTypeName="Early Ballots" votes="1266468" />
                 <voteType voteTypeName="Provisional Ballots" votes="188" />
               </voteTypes>
             </jurisdiction>
@@ -2222,10 +2222,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="71546">
+            <jurisdiction key="9" name="Mohave" votes="74608">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="20090" />
-                <voteType voteTypeName="Early Ballots" votes="51456" />
+                <voteType voteTypeName="Early Ballots" votes="54518" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3219,12 +3219,12 @@
         <jurisdiction key="14" name="Yavapai" precinctsParticipating="7" precinctsReported="7" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9789" choiceName="O'Halleran, Tom" partyKey="3" party="DEM" totalVotes="171712" isWriteIn="false">
+        <choice key="9789" choiceName="O'Halleran, Tom" partyKey="3" party="DEM" totalVotes="171729" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="171712">
+            <jurisdiction key="0" name="State" votes="171729">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="29650" />
-                <voteType voteTypeName="Early Ballots" votes="142023" />
+                <voteType voteTypeName="Early Ballots" votes="142040" />
                 <voteType voteTypeName="Provisional Ballots" votes="39" />
               </voteTypes>
             </jurisdiction>
@@ -3270,10 +3270,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="244">
+            <jurisdiction key="9" name="Mohave" votes="261">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="145" />
-                <voteType voteTypeName="Early Ballots" votes="99" />
+                <voteType voteTypeName="Early Ballots" votes="116" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3307,12 +3307,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9669" choiceName="Shedd, Tiffany" partyKey="9" party="REP" totalVotes="158868" isWriteIn="false">
+        <choice key="9669" choiceName="Shedd, Tiffany" partyKey="9" party="REP" totalVotes="158873" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="158868">
+            <jurisdiction key="0" name="State" votes="158873">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="43895" />
-                <voteType voteTypeName="Early Ballots" votes="114806" />
+                <voteType voteTypeName="Early Ballots" votes="114811" />
                 <voteType voteTypeName="Provisional Ballots" votes="167" />
               </voteTypes>
             </jurisdiction>
@@ -3358,10 +3358,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="109">
+            <jurisdiction key="9" name="Mohave" votes="114">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="83" />
-                <voteType voteTypeName="Early Ballots" votes="26" />
+                <voteType voteTypeName="Early Ballots" votes="31" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3682,12 +3682,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="111611" isWriteIn="false">
+        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="112259" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="111611">
+            <jurisdiction key="0" name="State" votes="112259">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9866" />
-                <voteType voteTypeName="Early Ballots" votes="101745" />
+                <voteType voteTypeName="Early Ballots" votes="102393" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3712,10 +3712,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="22597">
+            <jurisdiction key="9" name="Mohave" votes="23245">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2743" />
-                <voteType voteTypeName="Early Ballots" votes="19854" />
+                <voteType voteTypeName="Early Ballots" votes="20502" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3742,12 +3742,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="254135" isWriteIn="false">
+        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="257212" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="254135">
+            <jurisdiction key="0" name="State" votes="257212">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="53846" />
-                <voteType voteTypeName="Early Ballots" votes="200289" />
+                <voteType voteTypeName="Early Ballots" votes="203366" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3772,10 +3772,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="72578">
+            <jurisdiction key="9" name="Mohave" votes="75655">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="19964" />
-                <voteType voteTypeName="Early Ballots" votes="52614" />
+                <voteType voteTypeName="Early Ballots" votes="55691" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4576,12 +4576,12 @@
         <jurisdiction key="9" name="Mohave" precinctsParticipating="22" precinctsReported="22" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10104" choiceName="Borrelli, Sonny" partyKey="9" party="REP" totalVotes="82981" isWriteIn="false">
+        <choice key="10104" choiceName="Borrelli, Sonny" partyKey="9" party="REP" totalVotes="86143" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="82981">
+            <jurisdiction key="0" name="State" votes="86143">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="22003" />
-                <voteType voteTypeName="Early Ballots" votes="60978" />
+                <voteType voteTypeName="Early Ballots" votes="64140" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4592,10 +4592,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="77670">
+            <jurisdiction key="9" name="Mohave" votes="80832">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="20167" />
-                <voteType voteTypeName="Early Ballots" votes="57503" />
+                <voteType voteTypeName="Early Ballots" votes="60665" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4754,12 +4754,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="1" precinctsReported="1" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10238" choiceName="Peshlakai, Jamescita" partyKey="3" party="DEM" totalVotes="59350" isWriteIn="false">
+        <choice key="10238" choiceName="Peshlakai, Jamescita" partyKey="3" party="DEM" totalVotes="59370" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="59350">
+            <jurisdiction key="0" name="State" votes="59370">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="20250" />
-                <voteType voteTypeName="Early Ballots" votes="39084" />
+                <voteType voteTypeName="Early Ballots" votes="39104" />
                 <voteType voteTypeName="Provisional Ballots" votes="16" />
               </voteTypes>
             </jurisdiction>
@@ -4791,10 +4791,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="16" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="278">
+            <jurisdiction key="9" name="Mohave" votes="298">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="169" />
-                <voteType voteTypeName="Early Ballots" votes="109" />
+                <voteType voteTypeName="Early Ballots" votes="129" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6309,12 +6309,12 @@
         <jurisdiction key="9" name="Mohave" precinctsParticipating="22" precinctsReported="22" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10080" choiceName="Biasiucci, Leo" partyKey="9" party="REP" totalVotes="57800" isWriteIn="false">
+        <choice key="10080" choiceName="Biasiucci, Leo" partyKey="9" party="REP" totalVotes="60001" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="57800">
+            <jurisdiction key="0" name="State" votes="60001">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="14442" />
-                <voteType voteTypeName="Early Ballots" votes="43358" />
+                <voteType voteTypeName="Early Ballots" votes="45559" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6325,21 +6325,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="53847">
+            <jurisdiction key="9" name="Mohave" votes="56048">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="13091" />
-                <voteType voteTypeName="Early Ballots" votes="40756" />
+                <voteType voteTypeName="Early Ballots" votes="42957" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10174" choiceName="Cobb, Regina" partyKey="9" party="REP" totalVotes="67588" isWriteIn="false">
+        <choice key="10174" choiceName="Cobb, Regina" partyKey="9" party="REP" totalVotes="70184" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="67588">
+            <jurisdiction key="0" name="State" votes="70184">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="17108" />
-                <voteType voteTypeName="Early Ballots" votes="50480" />
+                <voteType voteTypeName="Early Ballots" votes="53076" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6350,10 +6350,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="63141">
+            <jurisdiction key="9" name="Mohave" votes="65737">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15616" />
-                <voteType voteTypeName="Early Ballots" votes="47525" />
+                <voteType voteTypeName="Early Ballots" votes="50121" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6540,12 +6540,12 @@
         <jurisdiction key="12" name="Pinal" precinctsParticipating="1" precinctsReported="1" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9899" choiceName="Parks, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="22865" isWriteIn="false">
+        <choice key="9899" choiceName="Parks, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="22870" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="22865">
+            <jurisdiction key="0" name="State" votes="22870">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7990" />
-                <voteType voteTypeName="Early Ballots" votes="14872" />
+                <voteType voteTypeName="Early Ballots" votes="14877" />
                 <voteType voteTypeName="Provisional Ballots" votes="3" />
               </voteTypes>
             </jurisdiction>
@@ -6577,10 +6577,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="3" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="73">
+            <jurisdiction key="9" name="Mohave" votes="78">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="49" />
-                <voteType voteTypeName="Early Ballots" votes="24" />
+                <voteType voteTypeName="Early Ballots" votes="29" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6600,12 +6600,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10083" choiceName="Peelman, David" partyKey="9" party="REP" totalVotes="21250" isWriteIn="false">
+        <choice key="10083" choiceName="Peelman, David" partyKey="9" party="REP" totalVotes="21254" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="21250">
+            <jurisdiction key="0" name="State" votes="21254">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7605" />
-                <voteType voteTypeName="Early Ballots" votes="13644" />
+                <voteType voteTypeName="Early Ballots" votes="13648" />
                 <voteType voteTypeName="Provisional Ballots" votes="1" />
               </voteTypes>
             </jurisdiction>
@@ -6637,10 +6637,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="1" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="73">
+            <jurisdiction key="9" name="Mohave" votes="77">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="51" />
-                <voteType voteTypeName="Early Ballots" votes="22" />
+                <voteType voteTypeName="Early Ballots" votes="26" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6660,12 +6660,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10255" choiceName="Teller, Arlando" partyKey="3" party="DEM" totalVotes="36541" isWriteIn="false">
+        <choice key="10255" choiceName="Teller, Arlando" partyKey="3" party="DEM" totalVotes="36551" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="36541">
+            <jurisdiction key="0" name="State" votes="36551">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10645" />
-                <voteType voteTypeName="Early Ballots" votes="25889" />
+                <voteType voteTypeName="Early Ballots" votes="25899" />
                 <voteType voteTypeName="Provisional Ballots" votes="7" />
               </voteTypes>
             </jurisdiction>
@@ -6697,10 +6697,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="7" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="165">
+            <jurisdiction key="9" name="Mohave" votes="175">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="87" />
-                <voteType voteTypeName="Early Ballots" votes="78" />
+                <voteType voteTypeName="Early Ballots" votes="88" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6720,12 +6720,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10115" choiceName="Tsosie, Myron" partyKey="3" party="DEM" totalVotes="45048" isWriteIn="false">
+        <choice key="10115" choiceName="Tsosie, Myron" partyKey="3" party="DEM" totalVotes="45065" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="45048">
+            <jurisdiction key="0" name="State" votes="45065">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="14625" />
-                <voteType voteTypeName="Early Ballots" votes="30408" />
+                <voteType voteTypeName="Early Ballots" votes="30425" />
                 <voteType voteTypeName="Provisional Ballots" votes="15" />
               </voteTypes>
             </jurisdiction>
@@ -6757,10 +6757,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="15" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="231">
+            <jurisdiction key="9" name="Mohave" votes="248">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="137" />
-                <voteType voteTypeName="Early Ballots" votes="94" />
+                <voteType voteTypeName="Early Ballots" votes="111" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -8968,12 +8968,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1333777" isWriteIn="false">
+        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1336147" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1333777">
+            <jurisdiction key="0" name="State" votes="1336147">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="176495" />
-                <voteType voteTypeName="Early Ballots" votes="1157153" />
+                <voteType voteTypeName="Early Ballots" votes="1159523" />
                 <voteType voteTypeName="Provisional Ballots" votes="129" />
               </voteTypes>
             </jurisdiction>
@@ -9033,10 +9033,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="53572">
+            <jurisdiction key="9" name="Mohave" votes="55942">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="12918" />
-                <voteType voteTypeName="Early Ballots" votes="40654" />
+                <voteType voteTypeName="Early Ballots" votes="43024" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9084,12 +9084,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1221190" isWriteIn="false">
+        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1221709" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1221190">
+            <jurisdiction key="0" name="State" votes="1221709">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="73142" />
-                <voteType voteTypeName="Early Ballots" votes="1147984" />
+                <voteType voteTypeName="Early Ballots" votes="1148503" />
                 <voteType voteTypeName="Provisional Ballots" votes="64" />
               </voteTypes>
             </jurisdiction>
@@ -9149,10 +9149,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="18913">
+            <jurisdiction key="9" name="Mohave" votes="19432">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2142" />
-                <voteType voteTypeName="Early Ballots" votes="16771" />
+                <voteType voteTypeName="Early Ballots" votes="17290" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9200,12 +9200,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1319706" isWriteIn="false">
+        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1322190" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1319706">
+            <jurisdiction key="0" name="State" votes="1322190">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="188945" />
-                <voteType voteTypeName="Early Ballots" votes="1130613" />
+                <voteType voteTypeName="Early Ballots" votes="1133097" />
                 <voteType voteTypeName="Provisional Ballots" votes="148" />
               </voteTypes>
             </jurisdiction>
@@ -9265,10 +9265,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="59818">
+            <jurisdiction key="9" name="Mohave" votes="62302">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15321" />
-                <voteType voteTypeName="Early Ballots" votes="44497" />
+                <voteType voteTypeName="Early Ballots" votes="46981" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9316,12 +9316,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1270330" isWriteIn="false">
+        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1272680" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1270330">
+            <jurisdiction key="0" name="State" votes="1272680">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="172939" />
-                <voteType voteTypeName="Early Ballots" votes="1097266" />
+                <voteType voteTypeName="Early Ballots" votes="1099616" />
                 <voteType voteTypeName="Provisional Ballots" votes="125" />
               </voteTypes>
             </jurisdiction>
@@ -9381,10 +9381,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="55336">
+            <jurisdiction key="9" name="Mohave" votes="57686">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="13665" />
-                <voteType voteTypeName="Early Ballots" votes="41671" />
+                <voteType voteTypeName="Early Ballots" votes="44021" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9432,12 +9432,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1190863" isWriteIn="false">
+        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1191343" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1190863">
+            <jurisdiction key="0" name="State" votes="1191343">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="72944" />
-                <voteType voteTypeName="Early Ballots" votes="1117864" />
+                <voteType voteTypeName="Early Ballots" votes="1118344" />
                 <voteType voteTypeName="Provisional Ballots" votes="55" />
               </voteTypes>
             </jurisdiction>
@@ -9497,10 +9497,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="17649">
+            <jurisdiction key="9" name="Mohave" votes="18129">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1912" />
-                <voteType voteTypeName="Early Ballots" votes="15737" />
+                <voteType voteTypeName="Early Ballots" votes="16217" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9548,12 +9548,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1358401" isWriteIn="false">
+        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1359051" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1358401">
+            <jurisdiction key="0" name="State" votes="1359051">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="91425" />
-                <voteType voteTypeName="Early Ballots" votes="1266886" />
+                <voteType voteTypeName="Early Ballots" votes="1267536" />
                 <voteType voteTypeName="Provisional Ballots" votes="90" />
               </voteTypes>
             </jurisdiction>
@@ -9613,10 +9613,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="20996">
+            <jurisdiction key="9" name="Mohave" votes="21646">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2592" />
-                <voteType voteTypeName="Early Ballots" votes="18404" />
+                <voteType voteTypeName="Early Ballots" votes="19054" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9686,12 +9686,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10376" choiceName="No" totalVotes="570724" isWriteIn="false">
+        <choice key="10376" choiceName="No" totalVotes="571150" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="570724">
+            <jurisdiction key="0" name="State" votes="571150">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="64002" />
-                <voteType voteTypeName="Early Ballots" votes="506658" />
+                <voteType voteTypeName="Early Ballots" votes="507084" />
                 <voteType voteTypeName="Provisional Ballots" votes="64" />
               </voteTypes>
             </jurisdiction>
@@ -9751,10 +9751,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="11908">
+            <jurisdiction key="9" name="Mohave" votes="12334">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2804" />
-                <voteType voteTypeName="Early Ballots" votes="9104" />
+                <voteType voteTypeName="Early Ballots" votes="9530" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9802,12 +9802,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10360" choiceName="Yes" totalVotes="1729775" isWriteIn="false">
+        <choice key="10360" choiceName="Yes" totalVotes="1732316" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1729775">
+            <jurisdiction key="0" name="State" votes="1732316">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202394" />
-                <voteType voteTypeName="Early Ballots" votes="1527173" />
+                <voteType voteTypeName="Early Ballots" votes="1529714" />
                 <voteType voteTypeName="Provisional Ballots" votes="208" />
               </voteTypes>
             </jurisdiction>
@@ -9867,10 +9867,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="65909">
+            <jurisdiction key="9" name="Mohave" votes="68450">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="16014" />
-                <voteType voteTypeName="Early Ballots" votes="49895" />
+                <voteType voteTypeName="Early Ballots" votes="52436" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9940,12 +9940,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10311" choiceName="No" totalVotes="735946" isWriteIn="false">
+        <choice key="10311" choiceName="No" totalVotes="736395" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="735946">
+            <jurisdiction key="0" name="State" votes="736395">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="66825" />
-                <voteType voteTypeName="Early Ballots" votes="669056" />
+                <voteType voteTypeName="Early Ballots" votes="669505" />
                 <voteType voteTypeName="Provisional Ballots" votes="65" />
               </voteTypes>
             </jurisdiction>
@@ -10005,10 +10005,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="13004">
+            <jurisdiction key="9" name="Mohave" votes="13453">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2826" />
-                <voteType voteTypeName="Early Ballots" votes="10178" />
+                <voteType voteTypeName="Early Ballots" votes="10627" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10056,12 +10056,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10327" choiceName="Yes" totalVotes="1555802" isWriteIn="false">
+        <choice key="10327" choiceName="Yes" totalVotes="1558282" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1555802">
+            <jurisdiction key="0" name="State" votes="1558282">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="197168" />
-                <voteType voteTypeName="Early Ballots" votes="1358431" />
+                <voteType voteTypeName="Early Ballots" votes="1360911" />
                 <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
@@ -10121,10 +10121,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="64023">
+            <jurisdiction key="9" name="Mohave" votes="66503">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15704" />
-                <voteType voteTypeName="Early Ballots" votes="48319" />
+                <voteType voteTypeName="Early Ballots" votes="50799" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10194,12 +10194,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10344" choiceName="No" totalVotes="633361" isWriteIn="false">
+        <choice key="10344" choiceName="No" totalVotes="633793" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="633361">
+            <jurisdiction key="0" name="State" votes="633793">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="62677" />
-                <voteType voteTypeName="Early Ballots" votes="570619" />
+                <voteType voteTypeName="Early Ballots" votes="571051" />
                 <voteType voteTypeName="Provisional Ballots" votes="65" />
               </voteTypes>
             </jurisdiction>
@@ -10259,10 +10259,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="12556">
+            <jurisdiction key="9" name="Mohave" votes="12988">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3170" />
-                <voteType voteTypeName="Early Ballots" votes="9386" />
+                <voteType voteTypeName="Early Ballots" votes="9818" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10310,12 +10310,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10328" choiceName="Yes" totalVotes="1670582" isWriteIn="false">
+        <choice key="10328" choiceName="Yes" totalVotes="1673031" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1670582">
+            <jurisdiction key="0" name="State" votes="1673031">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202319" />
-                <voteType voteTypeName="Early Ballots" votes="1468058" />
+                <voteType voteTypeName="Early Ballots" votes="1470507" />
                 <voteType voteTypeName="Provisional Ballots" votes="205" />
               </voteTypes>
             </jurisdiction>
@@ -10375,10 +10375,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="62997">
+            <jurisdiction key="9" name="Mohave" votes="65446">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15092" />
-                <voteType voteTypeName="Early Ballots" votes="47905" />
+                <voteType voteTypeName="Early Ballots" votes="50354" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10704,12 +10704,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10416" choiceName="No" totalVotes="68594" isWriteIn="false">
+        <choice key="10416" choiceName="No" totalVotes="69070" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="68594">
+            <jurisdiction key="0" name="State" votes="69070">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="13647" />
-                <voteType voteTypeName="Early Ballots" votes="54947" />
+                <voteType voteTypeName="Early Ballots" votes="55423" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10734,10 +10734,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="12549">
+            <jurisdiction key="9" name="Mohave" votes="13025">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2837" />
-                <voteType voteTypeName="Early Ballots" votes="9712" />
+                <voteType voteTypeName="Early Ballots" votes="10188" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10764,12 +10764,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10408" choiceName="Yes" totalVotes="288187" isWriteIn="false">
+        <choice key="10408" choiceName="Yes" totalVotes="290624" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="288187">
+            <jurisdiction key="0" name="State" votes="290624">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="58565" />
-                <voteType voteTypeName="Early Ballots" votes="229622" />
+                <voteType voteTypeName="Early Ballots" votes="232059" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10794,10 +10794,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="63779">
+            <jurisdiction key="9" name="Mohave" votes="66216">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15466" />
-                <voteType voteTypeName="Early Ballots" votes="48313" />
+                <voteType voteTypeName="Early Ballots" votes="50750" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10838,12 +10838,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10400" choiceName="No" totalVotes="66950" isWriteIn="false">
+        <choice key="10400" choiceName="No" totalVotes="67564" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="66950">
+            <jurisdiction key="0" name="State" votes="67564">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15046" />
-                <voteType voteTypeName="Early Ballots" votes="51904" />
+                <voteType voteTypeName="Early Ballots" votes="52518" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10868,10 +10868,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="15158">
+            <jurisdiction key="9" name="Mohave" votes="15772">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3603" />
-                <voteType voteTypeName="Early Ballots" votes="11555" />
+                <voteType voteTypeName="Early Ballots" votes="12169" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10898,12 +10898,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10392" choiceName="Yes" totalVotes="289096" isWriteIn="false">
+        <choice key="10392" choiceName="Yes" totalVotes="291406" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="289096">
+            <jurisdiction key="0" name="State" votes="291406">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="56170" />
-                <voteType voteTypeName="Early Ballots" votes="232926" />
+                <voteType voteTypeName="Early Ballots" votes="235236" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10928,10 +10928,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="61040">
+            <jurisdiction key="9" name="Mohave" votes="63350">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="14641" />
-                <voteType voteTypeName="Early Ballots" votes="46399" />
+                <voteType voteTypeName="Early Ballots" votes="48709" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11262,12 +11262,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9620" choiceName="No" totalVotes="1208501" isWriteIn="false">
+        <choice key="9620" choiceName="No" totalVotes="1209926" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1208501">
+            <jurisdiction key="0" name="State" votes="1209926">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="141653" />
-                <voteType voteTypeName="Early Ballots" votes="1066702" />
+                <voteType voteTypeName="Early Ballots" votes="1068127" />
                 <voteType voteTypeName="Provisional Ballots" votes="146" />
               </voteTypes>
             </jurisdiction>
@@ -11327,10 +11327,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="37422">
+            <jurisdiction key="9" name="Mohave" votes="38847">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="8929" />
-                <voteType voteTypeName="Early Ballots" votes="28493" />
+                <voteType voteTypeName="Early Ballots" votes="29918" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11378,12 +11378,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9632" choiceName="Yes" totalVotes="1803234" isWriteIn="false">
+        <choice key="9632" choiceName="Yes" totalVotes="1805557" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1803234">
+            <jurisdiction key="0" name="State" votes="1805557">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202314" />
-                <voteType voteTypeName="Early Ballots" votes="1600763" />
+                <voteType voteTypeName="Early Ballots" votes="1603086" />
                 <voteType voteTypeName="Provisional Ballots" votes="157" />
               </voteTypes>
             </jurisdiction>
@@ -11443,10 +11443,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="55893">
+            <jurisdiction key="9" name="Mohave" votes="58216">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="13908" />
-                <voteType voteTypeName="Early Ballots" votes="41985" />
+                <voteType voteTypeName="Early Ballots" votes="44308" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11516,12 +11516,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10279" choiceName="No" totalVotes="1437876" isWriteIn="false">
+        <choice key="10279" choiceName="No" totalVotes="1440385" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1437876">
+            <jurisdiction key="0" name="State" votes="1440385">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="206062" />
-                <voteType voteTypeName="Early Ballots" votes="1231658" />
+                <voteType voteTypeName="Early Ballots" votes="1234167" />
                 <voteType voteTypeName="Provisional Ballots" votes="156" />
               </voteTypes>
             </jurisdiction>
@@ -11581,10 +11581,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="61513">
+            <jurisdiction key="9" name="Mohave" votes="64022">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="16692" />
-                <voteType voteTypeName="Early Ballots" votes="44821" />
+                <voteType voteTypeName="Early Ballots" votes="47330" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11632,12 +11632,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10293" choiceName="Yes" totalVotes="1556659" isWriteIn="false">
+        <choice key="10293" choiceName="Yes" totalVotes="1557870" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1556659">
+            <jurisdiction key="0" name="State" votes="1557870">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="133068" />
-                <voteType voteTypeName="Early Ballots" votes="1423450" />
+                <voteType voteTypeName="Early Ballots" votes="1424661" />
                 <voteType voteTypeName="Provisional Ballots" votes="141" />
               </voteTypes>
             </jurisdiction>
@@ -11697,10 +11697,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="9" name="Mohave" votes="31362">
+            <jurisdiction key="9" name="Mohave" votes="32573">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5992" />
-                <voteType voteTypeName="Early Ballots" votes="25370" />
+                <voteType voteTypeName="Early Ballots" votes="26581" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
