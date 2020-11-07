@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <electionResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <electionInformation>
-    <resultsTimestamp>2020-11-07T08:37:59.827</resultsTimestamp>
+    <resultsTimestamp>2020-11-07T08:52:48.487</resultsTimestamp>
     <electionName>2020 General Election</electionName>
     <electionDate>2020-11-03</electionDate>
-    <fileId>8386</fileId>
+    <fileId>8387</fileId>
   </electionInformation>
   <voterTurnout>
     <jurisdictions>
-      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3265970" voterTurnout="76.29" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
+      <jurisdiction key="0" name="State" totalVoters="4281152" ballotsCast="3267743" voterTurnout="76.33" precinctsParticipating="0" precinctsReported="0" precinctsReportingPercent="0.00" />
       <jurisdiction key="1" name="Apache" totalVoters="51906" ballotsCast="24776" voterTurnout="47.73" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       <jurisdiction key="2" name="Cochise" totalVoters="82022" ballotsCast="54685" voterTurnout="66.67" precinctsParticipating="49" precinctsReported="49" precinctsReportingPercent="100.00" />
       <jurisdiction key="3" name="Coconino" totalVoters="90669" ballotsCast="72785" voterTurnout="80.28" precinctsParticipating="71" precinctsReported="71" precinctsReportingPercent="100.00" />
@@ -23,7 +23,7 @@
       <jurisdiction key="12" name="Pinal" totalVoters="248874" ballotsCast="164143" voterTurnout="65.95" precinctsParticipating="102" precinctsReported="102" precinctsReportingPercent="100.00" />
       <jurisdiction key="13" name="Santa Cruz" totalVoters="29963" ballotsCast="19774" voterTurnout="65.99" precinctsParticipating="24" precinctsReported="24" precinctsReportingPercent="100.00" />
       <jurisdiction key="14" name="Yavapai" totalVoters="165361" ballotsCast="143133" voterTurnout="86.56" precinctsParticipating="45" precinctsReported="45" precinctsReportingPercent="100.00" />
-      <jurisdiction key="15" name="Yuma" totalVoters="103273" ballotsCast="67345" voterTurnout="65.21" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
+      <jurisdiction key="15" name="Yuma" totalVoters="103273" ballotsCast="69118" voterTurnout="66.93" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
     </jurisdictions>
   </voterTurnout>
   <contests>
@@ -47,12 +47,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1606526" isWriteIn="false">
+        <choice key="10519" choiceName="Biden, Joseph" partyKey="3" party="DEM" totalVotes="1607430" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1606526">
+            <jurisdiction key="0" name="State" votes="1607430">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="117783" />
-                <voteType voteTypeName="Early Ballots" votes="1488570" />
+                <voteType voteTypeName="Early Ballots" votes="1489474" />
                 <voteType voteTypeName="Provisional Ballots" votes="173" />
               </voteTypes>
             </jurisdiction>
@@ -154,10 +154,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="30658">
+            <jurisdiction key="15" name="Yuma" votes="31562">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3570" />
-                <voteType voteTypeName="Early Ballots" votes="27088" />
+                <voteType voteTypeName="Early Ballots" votes="27992" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -511,12 +511,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="47786" isWriteIn="false">
+        <choice key="10529" choiceName="Jorgensen, Jo" partyKey="5" party="LBT" totalVotes="47817" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="47786">
+            <jurisdiction key="0" name="State" votes="47817">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7029" />
-                <voteType voteTypeName="Early Ballots" votes="40748" />
+                <voteType voteTypeName="Early Ballots" votes="40779" />
                 <voteType voteTypeName="Provisional Ballots" votes="9" />
               </voteTypes>
             </jurisdiction>
@@ -618,10 +618,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="1068">
+            <jurisdiction key="15" name="Yuma" votes="1099">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="189" />
-                <voteType voteTypeName="Early Ballots" votes="879" />
+                <voteType voteTypeName="Early Ballots" votes="910" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -859,12 +859,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1578563" isWriteIn="false">
+        <choice key="10502" choiceName="Trump, Donald J." partyKey="9" party="REP" totalVotes="1579378" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1578563">
+            <jurisdiction key="0" name="State" votes="1579378">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="240723" />
-                <voteType voteTypeName="Early Ballots" votes="1337525" />
+                <voteType voteTypeName="Early Ballots" votes="1338340" />
                 <voteType voteTypeName="Provisional Ballots" votes="315" />
               </voteTypes>
             </jurisdiction>
@@ -966,10 +966,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="34951">
+            <jurisdiction key="15" name="Yuma" votes="35766">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5651" />
-                <voteType voteTypeName="Early Ballots" votes="29300" />
+                <voteType voteTypeName="Early Ballots" votes="30115" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -2041,12 +2041,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1647715" isWriteIn="false">
+        <choice key="10054" choiceName="Kelly, Mark" partyKey="3" party="DEM" totalVotes="1648711" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1647715">
+            <jurisdiction key="0" name="State" votes="1648711">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="125640" />
-                <voteType voteTypeName="Early Ballots" votes="1521872" />
+                <voteType voteTypeName="Early Ballots" votes="1522868" />
                 <voteType voteTypeName="Provisional Ballots" votes="203" />
               </voteTypes>
             </jurisdiction>
@@ -2148,21 +2148,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="32261">
+            <jurisdiction key="15" name="Yuma" votes="33257">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3859" />
-                <voteType voteTypeName="Early Ballots" votes="28402" />
+                <voteType voteTypeName="Early Ballots" votes="29398" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1556911" isWriteIn="false">
+        <choice key="9719" choiceName="McSally, Martha" partyKey="9" party="REP" totalVotes="1557637" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1556911">
+            <jurisdiction key="0" name="State" votes="1557637">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="233954" />
-                <voteType voteTypeName="Early Ballots" votes="1322672" />
+                <voteType voteTypeName="Early Ballots" votes="1323398" />
                 <voteType voteTypeName="Provisional Ballots" votes="285" />
               </voteTypes>
             </jurisdiction>
@@ -2264,10 +2264,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="33713">
+            <jurisdiction key="15" name="Yuma" votes="34439">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5409" />
-                <voteType voteTypeName="Early Ballots" votes="28304" />
+                <voteType voteTypeName="Early Ballots" votes="29030" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3516,12 +3516,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="29" precinctsReported="29" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9856" choiceName="Grijalva, Raúl" partyKey="3" party="DEM" totalVotes="165859" isWriteIn="false">
+        <choice key="9856" choiceName="Grijalva, Raúl" partyKey="3" party="DEM" totalVotes="166700" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="165859">
+            <jurisdiction key="0" name="State" votes="166700">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="16769" />
-                <voteType voteTypeName="Early Ballots" votes="149011" />
+                <voteType voteTypeName="Early Ballots" votes="149852" />
                 <voteType voteTypeName="Provisional Ballots" votes="79" />
               </voteTypes>
             </jurisdiction>
@@ -3553,21 +3553,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="79" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="22104">
+            <jurisdiction key="15" name="Yuma" votes="22945">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3069" />
-                <voteType voteTypeName="Early Ballots" votes="19035" />
+                <voteType voteTypeName="Early Ballots" votes="19876" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9886" choiceName="Wood, Daniel" partyKey="9" party="REP" totalVotes="90658" isWriteIn="false">
+        <choice key="9886" choiceName="Wood, Daniel" partyKey="9" party="REP" totalVotes="90934" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="90658">
+            <jurisdiction key="0" name="State" votes="90934">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15284" />
-                <voteType voteTypeName="Early Ballots" votes="75349" />
+                <voteType voteTypeName="Early Ballots" votes="75625" />
                 <voteType voteTypeName="Provisional Ballots" votes="25" />
               </voteTypes>
             </jurisdiction>
@@ -3599,10 +3599,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="25" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="13934">
+            <jurisdiction key="15" name="Yuma" votes="14210">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2257" />
-                <voteType voteTypeName="Early Ballots" votes="11677" />
+                <voteType voteTypeName="Early Ballots" votes="11953" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -3682,12 +3682,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="116028" isWriteIn="false">
+        <choice key="10145" choiceName="DiSanto, Delina" partyKey="3" party="DEM" totalVotes="116193" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="116028">
+            <jurisdiction key="0" name="State" votes="116193">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="9940" />
-                <voteType voteTypeName="Early Ballots" votes="106083" />
+                <voteType voteTypeName="Early Ballots" votes="106248" />
                 <voteType voteTypeName="Provisional Ballots" votes="5" />
               </voteTypes>
             </jurisdiction>
@@ -3733,21 +3733,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="9211">
+            <jurisdiction key="15" name="Yuma" votes="9376">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="786" />
-                <voteType voteTypeName="Early Ballots" votes="8425" />
+                <voteType voteTypeName="Early Ballots" votes="8590" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="265880" isWriteIn="false">
+        <choice key="9973" choiceName="Gosar, Paul" partyKey="9" party="REP" totalVotes="266301" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="265880">
+            <jurisdiction key="0" name="State" votes="266301">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="54197" />
-                <voteType voteTypeName="Early Ballots" votes="211633" />
+                <voteType voteTypeName="Early Ballots" votes="212054" />
                 <voteType voteTypeName="Provisional Ballots" votes="50" />
               </voteTypes>
             </jurisdiction>
@@ -3793,10 +3793,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="19840">
+            <jurisdiction key="15" name="Yuma" votes="20261">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3037" />
-                <voteType voteTypeName="Early Ballots" votes="16803" />
+                <voteType voteTypeName="Early Ballots" votes="17224" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4489,12 +4489,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="23" precinctsReported="23" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10074" choiceName="Angry, Travis" partyKey="9" party="REP" totalVotes="30432" isWriteIn="false">
+        <choice key="10074" choiceName="Angry, Travis" partyKey="9" party="REP" totalVotes="30684" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="30432">
+            <jurisdiction key="0" name="State" votes="30684">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4908" />
-                <voteType voteTypeName="Early Ballots" votes="25524" />
+                <voteType voteTypeName="Early Ballots" votes="25776" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4519,21 +4519,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="10837">
+            <jurisdiction key="15" name="Yuma" votes="11089">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1890" />
-                <voteType voteTypeName="Early Ballots" votes="8947" />
+                <voteType voteTypeName="Early Ballots" votes="9199" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9762" choiceName="Otondo, Lisa" partyKey="3" party="DEM" totalVotes="38897" isWriteIn="false">
+        <choice key="9762" choiceName="Otondo, Lisa" partyKey="3" party="DEM" totalVotes="39615" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="38897">
+            <jurisdiction key="0" name="State" votes="39615">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4713" />
-                <voteType voteTypeName="Early Ballots" votes="34184" />
+                <voteType voteTypeName="Early Ballots" votes="34902" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -4558,10 +4558,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="18520">
+            <jurisdiction key="15" name="Yuma" votes="19238">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2574" />
-                <voteType voteTypeName="Early Ballots" votes="15946" />
+                <voteType voteTypeName="Early Ballots" votes="16664" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -5095,12 +5095,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9851" choiceName="Kerr, Sine" partyKey="9" party="REP" totalVotes="89390" isWriteIn="false">
+        <choice key="9851" choiceName="Kerr, Sine" partyKey="9" party="REP" totalVotes="89972" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="89390">
+            <jurisdiction key="0" name="State" votes="89972">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="10439" />
-                <voteType voteTypeName="Early Ballots" votes="78951" />
+                <voteType voteTypeName="Early Ballots" votes="79533" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -5111,10 +5111,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="28163">
+            <jurisdiction key="15" name="Yuma" votes="28745">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4196" />
-                <voteType voteTypeName="Early Ballots" votes="23967" />
+                <voteType voteTypeName="Early Ballots" votes="24549" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6183,12 +6183,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="23" precinctsReported="23" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10194" choiceName="Fernandez, Charlene" partyKey="3" party="DEM" totalVotes="38756" isWriteIn="false">
+        <choice key="10194" choiceName="Fernandez, Charlene" partyKey="3" party="DEM" totalVotes="39429" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="38756">
+            <jurisdiction key="0" name="State" votes="39429">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4791" />
-                <voteType voteTypeName="Early Ballots" votes="33965" />
+                <voteType voteTypeName="Early Ballots" votes="34638" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6213,21 +6213,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="18635">
+            <jurisdiction key="15" name="Yuma" votes="19308">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2701" />
-                <voteType voteTypeName="Early Ballots" votes="15934" />
+                <voteType voteTypeName="Early Ballots" votes="16607" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9732" choiceName="John, Joel" partyKey="9" party="REP" totalVotes="30702" isWriteIn="false">
+        <choice key="9732" choiceName="John, Joel" partyKey="9" party="REP" totalVotes="30989" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="30702">
+            <jurisdiction key="0" name="State" votes="30989">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4901" />
-                <voteType voteTypeName="Early Ballots" votes="25801" />
+                <voteType voteTypeName="Early Ballots" votes="26088" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6252,21 +6252,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="11514">
+            <jurisdiction key="15" name="Yuma" votes="11801">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2010" />
-                <voteType voteTypeName="Early Ballots" votes="9504" />
+                <voteType voteTypeName="Early Ballots" votes="9791" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10107" choiceName="Peten, Geraldine &quot;Gerae&quot;" partyKey="3" party="DEM" totalVotes="28088" isWriteIn="false">
+        <choice key="10107" choiceName="Peten, Geraldine &quot;Gerae&quot;" partyKey="3" party="DEM" totalVotes="28492" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="28088">
+            <jurisdiction key="0" name="State" votes="28492">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3231" />
-                <voteType voteTypeName="Early Ballots" votes="24857" />
+                <voteType voteTypeName="Early Ballots" votes="25261" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -6291,10 +6291,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="12097">
+            <jurisdiction key="15" name="Yuma" votes="12501">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1860" />
-                <voteType voteTypeName="Early Ballots" votes="10237" />
+                <voteType voteTypeName="Early Ballots" votes="10641" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7293,12 +7293,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="21" precinctsReported="21" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9818" choiceName="Dunn, Timothy &quot;Tim&quot;" partyKey="9" party="REP" totalVotes="68090" isWriteIn="false">
+        <choice key="9818" choiceName="Dunn, Timothy &quot;Tim&quot;" partyKey="9" party="REP" totalVotes="68546" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="68090">
+            <jurisdiction key="0" name="State" votes="68546">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7884" />
-                <voteType voteTypeName="Early Ballots" votes="60206" />
+                <voteType voteTypeName="Early Ballots" votes="60662" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7309,21 +7309,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="22064">
+            <jurisdiction key="15" name="Yuma" votes="22520">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3375" />
-                <voteType voteTypeName="Early Ballots" votes="18689" />
+                <voteType voteTypeName="Early Ballots" votes="19145" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9735" choiceName="Osborne, Joanne" partyKey="9" party="REP" totalVotes="66957" isWriteIn="false">
+        <choice key="9735" choiceName="Osborne, Joanne" partyKey="9" party="REP" totalVotes="67309" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="66957">
+            <jurisdiction key="0" name="State" votes="67309">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="7329" />
-                <voteType voteTypeName="Early Ballots" votes="59628" />
+                <voteType voteTypeName="Early Ballots" votes="59980" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7334,21 +7334,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="19066">
+            <jurisdiction key="15" name="Yuma" votes="19418">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2988" />
-                <voteType voteTypeName="Early Ballots" votes="16078" />
+                <voteType voteTypeName="Early Ballots" votes="16430" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10163" choiceName="Sandoval, Mariana" partyKey="3" party="DEM" totalVotes="45912" isWriteIn="false">
+        <choice key="10163" choiceName="Sandoval, Mariana" partyKey="3" party="DEM" totalVotes="46157" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="45912">
+            <jurisdiction key="0" name="State" votes="46157">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3244" />
-                <voteType voteTypeName="Early Ballots" votes="42668" />
+                <voteType voteTypeName="Early Ballots" votes="42913" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -7359,10 +7359,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="12066">
+            <jurisdiction key="15" name="Yuma" votes="12311">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1159" />
-                <voteType voteTypeName="Early Ballots" votes="10907" />
+                <voteType voteTypeName="Early Ballots" votes="11152" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -8968,12 +8968,12 @@
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1385336" isWriteIn="false">
+        <choice key="9969" choiceName="Marquez Peterson, Lea" partyKey="9" party="REP" totalVotes="1385942" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1385336">
+            <jurisdiction key="0" name="State" votes="1385942">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="176770" />
-                <voteType voteTypeName="Early Ballots" votes="1208377" />
+                <voteType voteTypeName="Early Ballots" votes="1208983" />
                 <voteType voteTypeName="Provisional Ballots" votes="189" />
               </voteTypes>
             </jurisdiction>
@@ -9075,21 +9075,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="28644">
+            <jurisdiction key="15" name="Yuma" votes="29250">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4571" />
-                <voteType voteTypeName="Early Ballots" votes="24073" />
+                <voteType voteTypeName="Early Ballots" votes="24679" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1253386" isWriteIn="false">
+        <choice key="9819" choiceName="Mundell, William &quot;Bill&quot;" partyKey="3" party="DEM" totalVotes="1253939" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1253386">
+            <jurisdiction key="0" name="State" votes="1253939">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="73216" />
-                <voteType voteTypeName="Early Ballots" votes="1180062" />
+                <voteType voteTypeName="Early Ballots" votes="1180615" />
                 <voteType voteTypeName="Provisional Ballots" votes="108" />
               </voteTypes>
             </jurisdiction>
@@ -9191,21 +9191,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="21178">
+            <jurisdiction key="15" name="Yuma" votes="21731">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2498" />
-                <voteType voteTypeName="Early Ballots" votes="18680" />
+                <voteType voteTypeName="Early Ballots" votes="19233" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1369275" isWriteIn="false">
+        <choice key="9677" choiceName="O'Connor, James &quot;Jim&quot;" partyKey="9" party="REP" totalVotes="1369820" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1369275">
+            <jurisdiction key="0" name="State" votes="1369820">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="189243" />
-                <voteType voteTypeName="Early Ballots" votes="1179811" />
+                <voteType voteTypeName="Early Ballots" votes="1180356" />
                 <voteType voteTypeName="Provisional Ballots" votes="221" />
               </voteTypes>
             </jurisdiction>
@@ -9307,21 +9307,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="28382">
+            <jurisdiction key="15" name="Yuma" votes="28927">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4528" />
-                <voteType voteTypeName="Early Ballots" votes="23854" />
+                <voteType voteTypeName="Early Ballots" votes="24399" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1318304" isWriteIn="false">
+        <choice key="9922" choiceName="Sloan, Eric" partyKey="9" party="REP" totalVotes="1318815" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1318304">
+            <jurisdiction key="0" name="State" votes="1318815">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="173186" />
-                <voteType voteTypeName="Early Ballots" votes="1144933" />
+                <voteType voteTypeName="Early Ballots" votes="1145444" />
                 <voteType voteTypeName="Provisional Ballots" votes="185" />
               </voteTypes>
             </jurisdiction>
@@ -9423,21 +9423,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="26698">
+            <jurisdiction key="15" name="Yuma" votes="27209">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4159" />
-                <voteType voteTypeName="Early Ballots" votes="22539" />
+                <voteType voteTypeName="Early Ballots" votes="23050" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1222436" isWriteIn="false">
+        <choice key="10092" choiceName="Stanfield, Shea" partyKey="3" party="DEM" totalVotes="1222982" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1222436">
+            <jurisdiction key="0" name="State" votes="1222982">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="73002" />
-                <voteType voteTypeName="Early Ballots" votes="1149332" />
+                <voteType voteTypeName="Early Ballots" votes="1149878" />
                 <voteType voteTypeName="Provisional Ballots" votes="102" />
               </voteTypes>
             </jurisdiction>
@@ -9539,21 +9539,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="20307">
+            <jurisdiction key="15" name="Yuma" votes="20853">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="2414" />
-                <voteType voteTypeName="Early Ballots" votes="17893" />
+                <voteType voteTypeName="Early Ballots" votes="18439" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1397900" isWriteIn="false">
+        <choice key="9892" choiceName="Tovar, Anna" partyKey="3" party="DEM" totalVotes="1398784" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1397900">
+            <jurisdiction key="0" name="State" votes="1398784">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="91493" />
-                <voteType voteTypeName="Early Ballots" votes="1306265" />
+                <voteType voteTypeName="Early Ballots" votes="1307149" />
                 <voteType voteTypeName="Provisional Ballots" votes="142" />
               </voteTypes>
             </jurisdiction>
@@ -9655,10 +9655,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="28228">
+            <jurisdiction key="15" name="Yuma" votes="29112">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3325" />
-                <voteType voteTypeName="Early Ballots" votes="24903" />
+                <voteType voteTypeName="Early Ballots" votes="25787" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9686,12 +9686,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10376" choiceName="No" totalVotes="589781" isWriteIn="false">
+        <choice key="10376" choiceName="No" totalVotes="590100" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="589781">
+            <jurisdiction key="0" name="State" votes="590100">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="64062" />
-                <voteType voteTypeName="Early Ballots" votes="525638" />
+                <voteType voteTypeName="Early Ballots" votes="525957" />
                 <voteType voteTypeName="Provisional Ballots" votes="81" />
               </voteTypes>
             </jurisdiction>
@@ -9793,21 +9793,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="11205">
+            <jurisdiction key="15" name="Yuma" votes="11524">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1549" />
-                <voteType voteTypeName="Early Ballots" votes="9656" />
+                <voteType voteTypeName="Early Ballots" votes="9975" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10360" choiceName="Yes" totalVotes="1786336" isWriteIn="false">
+        <choice key="10360" choiceName="Yes" totalVotes="1787476" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1786336">
+            <jurisdiction key="0" name="State" votes="1787476">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202695" />
-                <voteType voteTypeName="Early Ballots" votes="1583316" />
+                <voteType voteTypeName="Early Ballots" votes="1584456" />
                 <voteType voteTypeName="Provisional Ballots" votes="325" />
               </voteTypes>
             </jurisdiction>
@@ -9909,10 +9909,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="44945">
+            <jurisdiction key="15" name="Yuma" votes="46085">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6589" />
-                <voteType voteTypeName="Early Ballots" votes="38356" />
+                <voteType voteTypeName="Early Ballots" votes="39496" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -9940,12 +9940,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10311" choiceName="No" totalVotes="758636" isWriteIn="false">
+        <choice key="10311" choiceName="No" totalVotes="758977" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="758636">
+            <jurisdiction key="0" name="State" votes="758977">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="66887" />
-                <voteType voteTypeName="Early Ballots" votes="691666" />
+                <voteType voteTypeName="Early Ballots" votes="692007" />
                 <voteType voteTypeName="Provisional Ballots" votes="83" />
               </voteTypes>
             </jurisdiction>
@@ -10047,21 +10047,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="11469">
+            <jurisdiction key="15" name="Yuma" votes="11810">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1530" />
-                <voteType voteTypeName="Early Ballots" votes="9939" />
+                <voteType voteTypeName="Early Ballots" votes="10280" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10327" choiceName="Yes" totalVotes="1608623" isWriteIn="false">
+        <choice key="10327" choiceName="Yes" totalVotes="1609742" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1608623">
+            <jurisdiction key="0" name="State" votes="1609742">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="197465" />
-                <voteType voteTypeName="Early Ballots" votes="1410839" />
+                <voteType voteTypeName="Early Ballots" votes="1411958" />
                 <voteType voteTypeName="Provisional Ballots" votes="319" />
               </voteTypes>
             </jurisdiction>
@@ -10163,10 +10163,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="45431">
+            <jurisdiction key="15" name="Yuma" votes="46550">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6595" />
-                <voteType voteTypeName="Early Ballots" votes="38836" />
+                <voteType voteTypeName="Early Ballots" votes="39955" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10194,12 +10194,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10344" choiceName="No" totalVotes="652424" isWriteIn="false">
+        <choice key="10344" choiceName="No" totalVotes="652676" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="652424">
+            <jurisdiction key="0" name="State" votes="652676">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="62739" />
-                <voteType voteTypeName="Early Ballots" votes="589605" />
+                <voteType voteTypeName="Early Ballots" votes="589857" />
                 <voteType voteTypeName="Provisional Ballots" votes="80" />
               </voteTypes>
             </jurisdiction>
@@ -10301,21 +10301,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="9935">
+            <jurisdiction key="15" name="Yuma" votes="10187">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1336" />
-                <voteType voteTypeName="Early Ballots" votes="8599" />
+                <voteType voteTypeName="Early Ballots" votes="8851" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10328" choiceName="Yes" totalVotes="1727313" isWriteIn="false">
+        <choice key="10328" choiceName="Yes" totalVotes="1728513" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1727313">
+            <jurisdiction key="0" name="State" votes="1728513">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202613" />
-                <voteType voteTypeName="Early Ballots" votes="1524378" />
+                <voteType voteTypeName="Early Ballots" votes="1525578" />
                 <voteType voteTypeName="Provisional Ballots" votes="322" />
               </voteTypes>
             </jurisdiction>
@@ -10417,10 +10417,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="45948">
+            <jurisdiction key="15" name="Yuma" votes="47148">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6699" />
-                <voteType voteTypeName="Early Ballots" votes="39249" />
+                <voteType voteTypeName="Early Ballots" votes="40449" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10704,12 +10704,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10416" choiceName="No" totalVotes="70645" isWriteIn="false">
+        <choice key="10416" choiceName="No" totalVotes="70930" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="70645">
+            <jurisdiction key="0" name="State" votes="70930">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="13695" />
-                <voteType voteTypeName="Early Ballots" votes="56950" />
+                <voteType voteTypeName="Early Ballots" votes="57235" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10755,21 +10755,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="10132">
+            <jurisdiction key="15" name="Yuma" votes="10417">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1459" />
-                <voteType voteTypeName="Early Ballots" votes="8673" />
+                <voteType voteTypeName="Early Ballots" votes="8958" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10408" choiceName="Yes" totalVotes="297147" isWriteIn="false">
+        <choice key="10408" choiceName="Yes" totalVotes="298306" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="297147">
+            <jurisdiction key="0" name="State" votes="298306">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="58875" />
-                <voteType voteTypeName="Early Ballots" votes="238272" />
+                <voteType voteTypeName="Early Ballots" votes="239431" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10815,10 +10815,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="45383">
+            <jurisdiction key="15" name="Yuma" votes="46542">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6546" />
-                <voteType voteTypeName="Early Ballots" votes="38837" />
+                <voteType voteTypeName="Early Ballots" votes="39996" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10838,12 +10838,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10400" choiceName="No" totalVotes="69032" isWriteIn="false">
+        <choice key="10400" choiceName="No" totalVotes="69251" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="69032">
+            <jurisdiction key="0" name="State" votes="69251">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="15109" />
-                <voteType voteTypeName="Early Ballots" votes="53923" />
+                <voteType voteTypeName="Early Ballots" votes="54142" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10889,21 +10889,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="8517">
+            <jurisdiction key="15" name="Yuma" votes="8736">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="1290" />
-                <voteType voteTypeName="Early Ballots" votes="7227" />
+                <voteType voteTypeName="Early Ballots" votes="7446" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10392" choiceName="Yes" totalVotes="298140" isWriteIn="false">
+        <choice key="10392" choiceName="Yes" totalVotes="299418" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="298140">
+            <jurisdiction key="0" name="State" votes="299418">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="56459" />
-                <voteType voteTypeName="Early Ballots" votes="241681" />
+                <voteType voteTypeName="Early Ballots" votes="242959" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -10949,10 +10949,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="48653">
+            <jurisdiction key="15" name="Yuma" votes="49931">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="6866" />
-                <voteType voteTypeName="Early Ballots" votes="41787" />
+                <voteType voteTypeName="Early Ballots" votes="43065" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11262,12 +11262,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="9620" choiceName="No" totalVotes="1249177" isWriteIn="false">
+        <choice key="9620" choiceName="No" totalVotes="1249959" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1249177">
+            <jurisdiction key="0" name="State" votes="1249959">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="141833" />
-                <voteType voteTypeName="Early Ballots" votes="1107151" />
+                <voteType voteTypeName="Early Ballots" votes="1107933" />
                 <voteType voteTypeName="Provisional Ballots" votes="193" />
               </voteTypes>
             </jurisdiction>
@@ -11369,21 +11369,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="29826">
+            <jurisdiction key="15" name="Yuma" votes="30608">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="3799" />
-                <voteType voteTypeName="Early Ballots" votes="26027" />
+                <voteType voteTypeName="Early Ballots" votes="26809" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="9632" choiceName="Yes" totalVotes="1868736" isWriteIn="false">
+        <choice key="9632" choiceName="Yes" totalVotes="1869671" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1868736">
+            <jurisdiction key="0" name="State" votes="1869671">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="202565" />
-                <voteType voteTypeName="Early Ballots" votes="1665920" />
+                <voteType voteTypeName="Early Ballots" votes="1666855" />
                 <voteType voteTypeName="Provisional Ballots" votes="251" />
               </voteTypes>
             </jurisdiction>
@@ -11485,10 +11485,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="34478">
+            <jurisdiction key="15" name="Yuma" votes="35413">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="5166" />
-                <voteType voteTypeName="Early Ballots" votes="29312" />
+                <voteType voteTypeName="Early Ballots" votes="30247" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
@@ -11516,12 +11516,12 @@
         <jurisdiction key="15" name="Yuma" precinctsParticipating="44" precinctsReported="44" precinctsReportingPercent="100.00" />
       </participatingJurisdictions>
       <choices>
-        <choice key="10279" choiceName="No" totalVotes="1491625" isWriteIn="false">
+        <choice key="10279" choiceName="No" totalVotes="1492366" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1491625">
+            <jurisdiction key="0" name="State" votes="1492366">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="206356" />
-                <voteType voteTypeName="Early Ballots" votes="1285035" />
+                <voteType voteTypeName="Early Ballots" votes="1285776" />
                 <voteType voteTypeName="Provisional Ballots" votes="234" />
               </voteTypes>
             </jurisdiction>
@@ -11623,21 +11623,21 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="30209">
+            <jurisdiction key="15" name="Yuma" votes="30950">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4543" />
-                <voteType voteTypeName="Early Ballots" votes="25666" />
+                <voteType voteTypeName="Early Ballots" votes="26407" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
           </jurisdictions>
         </choice>
-        <choice key="10293" choiceName="Yes" totalVotes="1607755" isWriteIn="false">
+        <choice key="10293" choiceName="Yes" totalVotes="1608723" isWriteIn="false">
           <jurisdictions>
-            <jurisdiction key="0" name="State" votes="1607755">
+            <jurisdiction key="0" name="State" votes="1608723">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="133192" />
-                <voteType voteTypeName="Early Ballots" votes="1474356" />
+                <voteType voteTypeName="Early Ballots" votes="1475324" />
                 <voteType voteTypeName="Provisional Ballots" votes="207" />
               </voteTypes>
             </jurisdiction>
@@ -11739,10 +11739,10 @@
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
-            <jurisdiction key="15" name="Yuma" votes="33796">
+            <jurisdiction key="15" name="Yuma" votes="34764">
               <voteTypes>
                 <voteType voteTypeName="Polling Place" votes="4355" />
-                <voteType voteTypeName="Early Ballots" votes="29441" />
+                <voteType voteTypeName="Early Ballots" votes="30409" />
                 <voteType voteTypeName="Provisional Ballots" votes="0" />
               </voteTypes>
             </jurisdiction>
